@@ -1,0 +1,137 @@
+===========================================================
+  DANH SÁCH LINK — PDF BÁO CÁO & SOURCE CODE (28 mục)
+  Đồ án Image Captioning (BLIP-2 & LLaVA)
+===========================================================
+Ghi chú:
+- PDF: tải từ link arXiv (nút Download PDF) hoặc link kỷ yếu.
+- "(không có code)" = tác giả không công bố repo chính thức.
+
+-----------------------------------------------------------
+NHÓM 1 — SURVEY
+-----------------------------------------------------------
+[1]  A Survey on Multimodal Large Language Models (2023/2024)
+     PDF : https://arxiv.org/pdf/2306.13549
+     Code: https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models
+
+[2]  A Comprehensive Survey and Guide to MLLMs in VL Tasks (2024)
+     PDF : https://arxiv.org/pdf/2411.06284
+     Code: (không có code)
+
+[3]  Exploring the Frontier of Vision-Language Models (2024)
+     PDF : https://arxiv.org/pdf/2404.07214
+     Code: (không có code)
+
+-----------------------------------------------------------
+NHÓM 2 — CÔNG TRÌNH NỀN TẢNG
+-----------------------------------------------------------
+[4]  Show and Tell (2015)
+     PDF : https://arxiv.org/pdf/1411.4555
+     Code: https://github.com/tensorflow/models/tree/master/research/im2txt  (cộng đồng)
+
+[5]  Show, Attend and Tell (2015)
+     PDF : https://arxiv.org/pdf/1502.03044
+     Code: https://github.com/kelvinxu/arctic-captions
+
+[6]  Bottom-Up and Top-Down Attention (2018)
+     PDF : https://arxiv.org/pdf/1707.07998
+     Code: https://github.com/peteanderson80/bottom-up-attention
+
+[7]  Attention Is All You Need (2017)
+     PDF : https://arxiv.org/pdf/1706.03762
+     Code: https://github.com/tensorflow/tensor2tensor
+
+[8]  CLIP — Learning Transferable Visual Models (2021)
+     PDF : https://arxiv.org/pdf/2103.00020
+     Code: https://github.com/openai/CLIP
+
+[9]  ViT — An Image is Worth 16x16 Words (2020)
+     PDF : https://arxiv.org/pdf/2010.11929
+     Code: https://github.com/google-research/vision_transformer
+
+-----------------------------------------------------------
+NHÓM 3 — BLIP / BLIP-2 / LLaVA / LLaVA-1.5 (+ SOTA mới)
+-----------------------------------------------------------
+[10] BLIP (2022)
+     PDF : https://arxiv.org/pdf/2201.12086
+     Code: https://github.com/salesforce/BLIP
+
+[11] BLIP-2 (2023)
+     PDF : https://arxiv.org/pdf/2301.12597
+     Code: https://github.com/salesforce/LAVIS
+
+[12] Visual Instruction Tuning — LLaVA (2023)
+     PDF : https://arxiv.org/pdf/2304.08485
+     Code: https://github.com/haotian-liu/LLaVA
+
+[13] Improved Baselines — LLaVA-1.5 (2023)
+     PDF : https://arxiv.org/pdf/2310.03744
+     Code: https://github.com/haotian-liu/LLaVA
+
+[14] InstructBLIP (2023)
+     PDF : https://arxiv.org/pdf/2305.06500
+     Code: https://github.com/salesforce/LAVIS
+
+[23] InternVL (2023/2024)
+     PDF : https://arxiv.org/pdf/2312.14238
+     Code: https://github.com/OpenGVLab/InternVL
+
+[24] Qwen2-VL (2024)
+     PDF : https://arxiv.org/pdf/2409.12191
+     Code: https://github.com/QwenLM/Qwen2-VL
+
+[25] LLaVA-OneVision (2024)
+     PDF : https://arxiv.org/pdf/2408.03326
+     Code: https://github.com/LLaVA-VL/LLaVA-NeXT
+
+-----------------------------------------------------------
+NHÓM 4 — HALLUCINATION & ĐỘ CHÍNH XÁC NGỮ NGHĨA
+-----------------------------------------------------------
+[15] Object Hallucination in Image Captioning — CHAIR (2018)
+     PDF : https://arxiv.org/pdf/1809.02156
+     Code: https://github.com/LisaAnne/Hallucination
+
+[16] Evaluating Object Hallucination in LVLMs — POPE (2023)
+     PDF : https://arxiv.org/pdf/2305.10355
+     Code: https://github.com/RUCAIBox/POPE
+
+[17] Factually Augmented RLHF — LLaVA-RLHF (2023/2024)
+     PDF : https://arxiv.org/pdf/2309.14525
+     Code: https://github.com/llava-rlhf/LLaVA-RLHF
+
+-----------------------------------------------------------
+NHÓM 5 — BENCHMARK / DATASET / METRIC
+-----------------------------------------------------------
+[18] Microsoft COCO Captions (2015)
+     PDF : https://arxiv.org/pdf/1504.00325
+     Code: https://github.com/tylin/coco-caption
+
+[19] CIDEr (2015)
+     PDF : https://arxiv.org/pdf/1411.5726
+     Code: https://github.com/tylin/coco-caption  (tích hợp)
+
+[20] SPICE (2016)
+     PDF : https://arxiv.org/pdf/1607.08822
+     Code: https://github.com/peteanderson80/SPICE
+
+[21] CLIPScore (2021)
+     PDF : https://arxiv.org/pdf/2104.08718
+     Code: https://github.com/jmhessel/clipscore
+
+[22] nocaps (2019)
+     PDF : https://arxiv.org/pdf/1812.08658
+     Code: https://github.com/nocaps-org
+
+[26] MME — Comprehensive Evaluation Benchmark (2023)
+     PDF : https://arxiv.org/pdf/2306.13394
+     Code: https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation
+
+-----------------------------------------------------------
+NHÓM 6 — CAPTIONING ẢNH HỌC THUẬT (FIGURE / CHART)
+-----------------------------------------------------------
+[27] SciCap — Generating Captions for Scientific Figures (2021)
+     PDF : https://arxiv.org/pdf/2110.11624
+     Code: https://github.com/tingyaohsu/SciCap
+
+[28] Chart-to-Text — Benchmark for Chart Summarization (2022)
+     PDF : https://arxiv.org/pdf/2203.06486
+     Code: https://github.com/vis-nlp/Chart-to-text
