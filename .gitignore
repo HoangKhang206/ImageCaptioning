@@ -1,0 +1,17 @@
+# Hệ điều hành / Office
+.DS_Store
+~$*
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+
+# Trọng số mô hình và dữ liệu nặng (theo CLAUDE.md mục 10)
+*.pth
+*.bin
+*.safetensors
+*.ckpt
+*.gguf
+datasets/
+checkpoints/
+data/

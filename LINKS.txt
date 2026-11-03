@@ -1,5 +1,5 @@
 ===========================================================
-  DANH SÁCH LINK — PDF BÁO CÁO & SOURCE CODE (28 mục)
+  DANH SÁCH LINK — PDF BÁO CÁO & SOURCE CODE (43 mục)
   Đồ án Image Captioning (BLIP-2 & LLaVA)
 ===========================================================
 Ghi chú:
@@ -79,7 +79,7 @@ NHÓM 3 — BLIP / BLIP-2 / LLaVA / LLaVA-1.5 (+ SOTA mới)
      PDF : https://arxiv.org/pdf/2409.12191
      Code: https://github.com/QwenLM/Qwen2-VL
 
-[25] LLaVA-OneVision (2024)
+[25] LLaVA-OneVision (2024, TMLR 2025) <- mô hình chính (bản 7B)
      PDF : https://arxiv.org/pdf/2408.03326
      Code: https://github.com/LLaVA-VL/LLaVA-NeXT
 
@@ -135,3 +135,83 @@ NHÓM 6 — CAPTIONING ẢNH HỌC THUẬT (FIGURE / CHART)
 [28] Chart-to-Text — Benchmark for Chart Summarization (2022)
      PDF : https://arxiv.org/pdf/2203.06486
      Code: https://github.com/vis-nlp/Chart-to-text
+
+-----------------------------------------------------------
+BỔ SUNG 11/2026 — SURVEY MỚI
+-----------------------------------------------------------
+[29] A Survey of State of the Art Large Vision Language Models (2025, bản v7 08/2026)
+     PDF : https://arxiv.org/pdf/2501.02189
+     Code: https://github.com/zli12321/Vision-Language-Models-Overview  (danh mục tài liệu)
+
+-----------------------------------------------------------
+BỔ SUNG 11/2026 — GIAI ĐOẠN TRANSFORMER
+-----------------------------------------------------------
+[30] Meshed-Memory Transformer for Image Captioning (CVPR 2020)
+     PDF : https://arxiv.org/pdf/1912.08226
+     Code: https://github.com/aimagelab/meshed-memory-transformer
+
+[31] ClipCap — CLIP Prefix for Image Captioning (2021, preprint)
+     PDF : https://arxiv.org/pdf/2111.09734
+     Code: https://github.com/rmokady/CLIP_prefix_caption
+
+-----------------------------------------------------------
+BỔ SUNG 11/2026 — MÔ HÌNH MỞ TRỌNG SỐ THẾ HỆ MỚI
+-----------------------------------------------------------
+[32] Qwen3-VL Technical Report (2025, preprint) <- đối chứng thế hệ mới (bản 8B)
+     PDF : https://arxiv.org/pdf/2511.21631
+     Code: https://github.com/QwenLM/Qwen3-VL
+
+[33] Qwen3.8-27B (08/2026)
+     PDF : (không có bài báo cho bản 27B; chỉ có model card và blog)
+     Web : https://huggingface.co/Qwen/Qwen3.8-27B
+     Code: https://github.com/QwenLM/Qwen3.8
+
+-----------------------------------------------------------
+BỔ SUNG 11/2026 — CAPTIONING BIỂU ĐỒ
+-----------------------------------------------------------
+[34] ChartCap — Mitigating Hallucination of Dense Chart Captioning (ICCV 2025)
+     PDF : https://arxiv.org/pdf/2508.03164
+     Code: https://github.com/junyoung-00/ChartCap
+
+[35] ChartFI — Faithfulness and Insightfulness of Chart Descriptions (IEEE VIS 2026)
+     PDF : https://arxiv.org/pdf/2605.23694
+     Code: https://github.com/wangfen01/ChartFI
+
+-----------------------------------------------------------
+BỔ SUNG 11/2026 — NGUỒN TRA CỨU (TRANG WEB, KHÔNG PHẢI BÀI BÁO)
+-----------------------------------------------------------
+[36] Roboflow Vision Evals (cập nhật 26/10/2026)
+     Web : https://playground.roboflow.com/models/feature/llms-with-vision-capabilities
+
+[37] Unsloth — yêu cầu bộ nhớ của Qwen3.8-27B
+     Web : https://unsloth.ai/docs/models/qwen3.8-27b
+
+-----------------------------------------------------------
+BỔ SUNG 11/2026 — THÀNH PHẦN CỦA LLaVA-OneVision (CHƯƠNG 3)
+-----------------------------------------------------------
+[38] SigLIP — Sigmoid Loss for Language Image Pre-Training (ICCV 2023)
+     PDF : https://arxiv.org/pdf/2303.15343
+     Code: https://github.com/google-research/big_vision
+
+[39] Qwen2 Technical Report (2024, preprint)
+     PDF : https://arxiv.org/pdf/2407.10671
+     Code: https://github.com/QwenLM/Qwen3  (repo cũ Qwen2 chuyển về đây)
+
+-----------------------------------------------------------
+BỔ SUNG 11/2026 — HƯỚNG CẢI TIẾN (NGỮ CẢNH, TỰ KIỂM TRA) VÀ ỨNG DỤNG
+-----------------------------------------------------------
+[40] SciCap+ — Knowledge Augmented Dataset for Scientific Figure Captioning (J. NLP 2024)
+     PDF : https://arxiv.org/pdf/2306.03491
+     Code: https://github.com/ZhishenYang/scientific_figure_captioning_dataset
+     Data: https://huggingface.co/datasets/anselyang/SciCapPlus  (CC BY-NC 4.0; img.zip 18 GB)
+
+[41] Summaries as Captions — Figure Captions via Text Summarization (INLG 2023)
+     PDF : https://arxiv.org/pdf/2302.12324
+     Code: https://github.com/Crowd-AI-Lab/Generating-Figure-Captions-as-a-Text-Summarization-Task
+
+[42] Woodpecker — Hallucination Correction for MLLMs (Science China Inf. Sci. 2024)
+     PDF : https://arxiv.org/pdf/2310.16045
+     Code: https://github.com/VITA-MLLM/Woodpecker  (repo cũ BradyFU/Woodpecker chuyển về đây)
+
+[43] Microsoft — FAQ về alt-text do AI sinh trong Microsoft 365 (trang web)
+     Web : https://support.microsoft.com/en-us/topic/frequently-asked-questions-about-ai-generated-alt-text-a667a4a6-5d18-45e6-aaf6-5370132f337a

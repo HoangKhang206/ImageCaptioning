@@ -1,0 +1,119 @@
+{
+  "LLaVA-OneVision-7B": {
+    "model_id": "llava-hf/llava-onevision-qwen2-7b-ov-hf",
+    "quantization": "4-bit nf4",
+    "prompt": "Describe this image in one short sentence.",
+    "captions": {
+      "coco_000000039769": {
+        "text": "Two cats laying on a pink couch with remotes.",
+        "seconds": 8.3
+      },
+      "coco_000000000285": {
+        "text": "A brown bear sitting in the grass with its mouth open.",
+        "seconds": 6.4
+      },
+      "coco_000000000632": {
+        "text": "A bedroom with a large window and a blue bed.",
+        "seconds": 5.2
+      },
+      "coco_000000000724": {
+        "text": "A stop sign with the word stop written on it.",
+        "seconds": 2.8
+      },
+      "coco_000000000776": {
+        "text": "A group of brown teddy bears sitting next to each other.",
+        "seconds": 4.8
+      },
+      "bar_chart (A=72, B=85, C=64)": {
+        "text": "A bar chart showing the accuracy of three models.",
+        "seconds": 10.1
+      },
+      "line_chart (10, 18, 31, 47, 70; tăng dần)": {
+        "text": "A line graph showing the number of papers per year from 2021 to 2025.",
+        "seconds": 11.6
+      }
+    },
+    "load_seconds": 603.3,
+    "gpu_gb_after_load": 5.68,
+    "gpu_gb_peak": 12.07,
+    "status": "ok"
+  },
+  "BLIP-2 OPT 2.7B": {
+    "model_id": "Salesforce/blip2-opt-2.7b",
+    "quantization": "4-bit nf4",
+    "prompt": "Describe this image in one short sentence.",
+    "captions": {
+      "coco_000000039769": {
+        "text": "two cats laying on a couch",
+        "seconds": 0.6
+      },
+      "coco_000000000285": {
+        "text": "a brown bear sitting on a green grassy field",
+        "seconds": 0.6
+      },
+      "coco_000000000632": {
+        "text": "a bedroom with a bed, a dresser, and a window",
+        "seconds": 0.7
+      },
+      "coco_000000000724": {
+        "text": "a stop sign on a street corner",
+        "seconds": 0.5
+      },
+      "coco_000000000776": {
+        "text": "a group of three teddy bears",
+        "seconds": 0.5
+      },
+      "bar_chart (A=72, B=85, C=64)": {
+        "text": "captain accuracy of three models",
+        "seconds": 0.5
+      },
+      "line_chart (10, 18, 31, 47, 70; tăng dần)": {
+        "text": "a graph showing the number of papers per year",
+        "seconds": 0.6
+      }
+    },
+    "load_seconds": 838.7,
+    "gpu_gb_after_load": 2.79,
+    "gpu_gb_peak": 2.79,
+    "status": "ok"
+  },
+  "Qwen3-VL-8B": {
+    "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+    "quantization": "4-bit nf4",
+    "prompt": "Describe this image in one short sentence.",
+    "captions": {
+      "coco_000000039769": {
+        "text": "Two tabby cats are sleeping peacefully on a bright pink couch, each with a remote control nearby.",
+        "seconds": 15.1
+      },
+      "coco_000000000285": {
+        "text": "A close-up of a brown bear with a curious expression, sitting in a grassy field.",
+        "seconds": 15.8
+      },
+      "coco_000000000632": {
+        "text": "A cozy bedroom with a blue bed, wooden dresser, bookshelf, and a window overlooking greenery.",
+        "seconds": 13.7
+      },
+      "coco_000000000724": {
+        "text": "A red stop sign stands at a street corner under a partly cloudy sky, surrounded by trees and greenery.",
+        "seconds": 9.6
+      },
+      "coco_000000000776": {
+        "text": "A pile of brown teddy bears cuddled together on a bed.",
+        "seconds": 11.4
+      },
+      "bar_chart (A=72, B=85, C=64)": {
+        "text": "A bar chart showing that Model B has the highest caption accuracy at 83%, followed by Model A at 72%, and Model C at 64%.",
+        "seconds": 20.6
+      },
+      "line_chart (10, 18, 31, 47, 70; tăng dần)": {
+        "text": "The line graph shows a steady increase in the number of papers published each year from 2021 to 2025, rising from 10 to 70 papers.",
+        "seconds": 21.2
+      }
+    },
+    "load_seconds": 360.1,
+    "gpu_gb_after_load": 6.32,
+    "gpu_gb_peak": 6.82,
+    "status": "ok"
+  }
+}

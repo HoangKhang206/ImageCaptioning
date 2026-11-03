@@ -3,7 +3,7 @@
 ===========================================================
 
 QUY ƯỚC
-- Mã [n] trùng số thứ tự bài trong doc Tổng quan tài liệu (từ 1 đến 28).
+- Mã [n] trùng số thứ tự bài trong doc Tổng quan tài liệu (từ 1 đến 28); các mục [29]–[43] bổ sung 11/2026, xem LINKS.txt.
 - Chỉ cần PDF + link code để đọc; dataset/checkpoint nặng chỉ tải khi chạy thử.
 
 Xem danh sách link đầy đủ trong file: LINKS.txt
