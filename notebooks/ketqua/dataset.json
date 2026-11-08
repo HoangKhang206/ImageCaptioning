@@ -1,0 +1,2698 @@
+{
+ "meta": {
+  "created": "2026-11-03T02:50:05",
+  "seed": 2026,
+  "data_dir": "/content/drive/MyDrive/ImageCaptioning/data",
+  "counts": {
+   "coco": 100,
+   "scicap": 40,
+   "charts": 20
+  },
+  "sources": {
+   "coco_val2017": "COCO Captions [18], ảnh val2017, giấy phép theo từng ảnh",
+   "scicap_plus_test": "SciCap+ [40], tập test, CC BY-NC 4.0",
+   "synthetic_chart": "Biểu đồ tự vẽ bằng matplotlib, có đáp án"
+  }
+ },
+ "items": [
+  {
+   "id": "coco_116208",
+   "source": "coco_val2017",
+   "file": "coco/000000116208.jpg",
+   "width": 640,
+   "height": 480,
+   "references": [
+    "A very large pizza covered in cheese and toppings.",
+    "pizza on a serving tray with empty plates next to it",
+    "A large pizza is shown on a table, with bottles and glasses of wine.",
+    "A pizza that is sitting on a platter.",
+    "Large baked pizza served on stand at table with beverages."
+   ],
+   "license": "Attribution-NonCommercial-NoDerivs License",
+   "flickr_url": "http://farm3.staticflickr.com/2643/4227221544_e934c72b60_z.jpg"
+  },
+  {
+   "id": "coco_302107",
+   "source": "coco_val2017",
+   "file": "coco/000000302107.jpg",
+   "width": 427,
+   "height": 640,
+   "references": [
+    "A man swinging a baseball bat during a baseball game.",
+    "A baseball player taking a swing at a ball",
+    "Two athletes actively playing a game of baseball.",
+    "A baseball player in mid swing hitting a ball.",
+    "A baseball player in a black jersey swinging a bat."
+   ],
+   "license": "Attribution-NonCommercial License",
+   "flickr_url": "http://farm8.staticflickr.com/7270/7598148828_01208d7229_z.jpg"
+  },
+  {
+   "id": "coco_475387",
+   "source": "coco_val2017",
+   "file": "coco/000000475387.jpg",
+   "width": 640,
+   "height": 431,
+   "references": [
+    "A train traveling down tracks near a train station.",
+    "Engine and train stopped at an indoor platform.",
+    "A train in the station with people waiting",
+    "An old train is pulled up to a passenger terminal.",
+    "A passanger train stopped to pick up passangers at a station."
+   ],
+   "license": "Attribution-NonCommercial-NoDerivs License",
+   "flickr_url": "http://farm6.staticflickr.com/5511/9586806532_f8654f7c33_z.jpg"
+  },
+  {
+   "id": "coco_484029",
+   "source": "coco_val2017",
+   "file": "coco/000000484029.jpg",
+   "width": 480,
+   "height": 640,
+   "references": [
+    "A stop sign with a street sign above it.",
+    "A street signs is on top of the stop sign",
+    "A red sign letting drivers know to stop.",
+    "there is a stop sign and a street sign at the corner",
+    "An intersection with traffic and street signs on it."
+   ],
+   "license": "Attribution-NonCommercial-NoDerivs License",
+   "flickr_url": "http://farm4.staticflickr.com/3341/3176549785_31fcb689d7_z.jpg"
+  },
+  {
+   "id": "coco_98633",
+   "source": "coco_val2017",
+   "file": "coco/000000098633.jpg",
+   "width": 428,
+   "height": 640,
+   "references": [
+    "A white piece of cake sitting on top of a plate.",
+    "A cake with white icing, mint leaves and strawberries.",
+    "a white square cake with five strawberries on the top",
+    "The cake is topped with five whole strawberries.",
+    "A square, white cake sits on a round plate and is decorated with strawberries."
+   ],
+   "license": "Attribution-NonCommercial License",
+   "flickr_url": "http://farm4.staticflickr.com/3643/3604833749_f2b1bf6dbf_z.jpg"
+  },
+  {
+   "id": "coco_210388",
+   "source": "coco_val2017",
+   "file": "coco/000000210388.jpg",
+   "width": 640,
+   "height": 426,
+   "references": [
+    "Some people are walking in the snow and having fun.",
+    "The people are trying to climb the mountain.",
+    "Man and woman walking up a snowy mountainous path, with luggage.",
+    "Hikers make it past a sign post in snowy conditions.",
+    "A group of people and a sign in the snow."
+   ],
+   "license": "Attribution-NonCommercial License",
+   "flickr_url": "http://farm3.staticflickr.com/2373/5710493068_885ed4dc68_z.jpg"
+  },
+  {
+   "id": "coco_572517",
+   "source": "coco_val2017",
+   "file": "coco/000000572517.jpg",
+   "width": 640,
+   "height": 424,
+   "references": [
+    "a polar bear following a big winged bird",
+    "a large bear landing a large polar bear is in the background preparing to drink from the water",
+    "A polar bear and a bird near a small pond.",
+    "A bird sitting in front of the water with a bear on the other side.",
+    "A Polar Bear walks toward water, while a large bird lands on the opposite bank."
+   ],
+   "license": "Attribution License",
+   "flickr_url": "http://farm4.staticflickr.com/3744/8754578923_aa3309cca9_z.jpg"
+  },
+  {
+   "id": "coco_529105",
+   "source": "coco_val2017",
+   "file": "coco/000000529105.jpg",
+   "width": 640,
+   "height": 480,
+   "references": [
+    "A brown horse laying in a field of lush vegetation.",
+    "A horse is laying down in a field.",
+    "A horse laying down on top of a lush green field.",
+    "A horse laying in a field enjoying the sun.",
+    "a dark horse laying on the ground by some grass"
+   ],
+   "license": "Attribution-ShareAlike License",
+   "flickr_url": "http://farm4.staticflickr.com/3576/3682341767_51b97e44e6_z.jpg"
+  },
+  {
+   "id": "coco_398905",
+   "source": "coco_val2017",
+   "file": "coco/000000398905.jpg",
+   "width": 640,
+   "height": 427,
+   "references": [
+    "A person is sitting at a keyboard near a microphone.",
+    "A man with a beard playing a keyboard on stage.",
+    "A man with a beard at sound board in front of microphone.",
+    "Frizzy haired guy standing at a keyboard listening to the music.",
+    "A bearded man onstage playing an electronic keyboard."
+   ],
+   "license": "Attribution License",
+   "flickr_url": "http://farm8.staticflickr.com/7141/6657510691_3f01a3ae23_z.jpg"
+  },
+  {
+   "id": "coco_546475",
+   "source": "coco_val2017",
+   "file": "coco/000000546475.jpg",
+   "width": 383,
+   "height": 640,
+   "references": [
+    "A man holding a baby while standing in front of a mirror.",
+    "A father and child taking a selfie of themselves.",
+    "a man that is holding a small baby",
+    "A man holding a baby taking a picture.",
+    "A man and his baby girl taking a selfie."
+   ],
+   "license": "Attribution-NonCommercial-ShareAlike License",
+   "flickr_url": "http://farm5.staticflickr.com/4143/4773136523_e19d4be593_z.jpg"
+  },
+  {
+   "id": "coco_520659",
+   "source": "coco_val2017",
+   "file": "coco/000000520659.jpg",
+   "width": 640,
+   "height": 480,
+   "references": [
+    "A white tent with a row of surfboards sitting under it.",
+    "Surfboards lined up in a rack at a competition",
+    "People on a beach and a line of surfboards.",
+    "A photo of a group of surfboards under and awning.",
+    "a white tent cover and many surfboards in a rack and people"
+   ],
+   "license": "Attribution-NonCommercial-NoDerivs License",
+   "flickr_url": "http://farm4.staticflickr.com/3018/2571970571_cacef4d741_z.jpg"
+  },
+  {
+   "id": "coco_464786",
+   "source": "coco_val2017",
+   "file": "coco/000000464786.jpg",
+   "width": 640,
+   "height": 428,
+   "references": [
+    "A hot dog and a bun with some mustard.",
+    "hotdog on bun with what looks like horseradish sauce",
+    "A hot dog on a bun with spicy mustard on it.",
+    "Hot dog with mustard on it sitting on a white napkin.",
+    "A hot dog sitting on top of a bun in a wrapper."
+   ],
+   "license": "Attribution License",
+   "flickr_url": "http://farm3.staticflickr.com/2463/3824077883_b53d4d7506_z.jpg"
+  },
+  {
+   "id": "coco_560178",
+   "source": "coco_val2017",
+   "file": "coco/000000560178.jpg",
+   "width": 640,
+   "height": 480,
+   "references": [
+    "A person holding a bit vegetable in their left hand.",
+    "Hand showing vegetable that has being chewed near garden area.",
+    "The end of a carrot is shown after someone has been eating it.",
+    "A person's hand holding up a bitten radish.",
+    "Someone is holding a veggie with a bite already taken from it."
+   ],
+   "license": "Attribution-NonCommercial-NoDerivs License",
+   "flickr_url": "http://farm1.staticflickr.com/74/193722870_4c62e8fd00_z.jpg"
+  },
+  {
+   "id": "coco_417911",
+   "source": "coco_val2017",
+   "file": "coco/000000417911.jpg",
+   "width": 640,
+   "height": 429,
+   "references": [
+    "A man in a wetsuit surfing a wave on a surf board.",
+    "a man leaning on a surfboard in the water riding a wave",
+    "A surfer is on his board cutting through the waves.",
+    "A man attempting to stand up on his board and surf a wave.",
+    "A man is drenched by the spray from the crest of a wave as he attempts to stand up on his surfboard."
+   ],
+   "license": "Attribution-NonCommercial-NoDerivs License",
+   "flickr_url": "http://farm3.staticflickr.com/2806/8757831528_b47c3a5fdb_z.jpg"
+  },
+  {
+   "id": "coco_226171",
+   "source": "coco_val2017",
+   "file": "coco/000000226171.jpg",
+   "width": 640,
+   "height": 480,
+   "references": [
+    "A computer monitor sitting above a computer keyboard.",
+    "A sunny office desk with computer, laptop and phone",
+    "a bottle a cup a keyboard a laptop and a monitor",
+    "A monitor, keyboard, coffee cup, and plastic bottle sit on a table.",
+    "A desk with a computer, computer keyboard, mug, empty plastic bottle, red pen, and a laptop."
+   ],
+   "license": "Attribution-NonCommercial-ShareAlike License",
+   "flickr_url": "http://farm3.staticflickr.com/2023/2326077489_1bd4702f8b_z.jpg"
+  },
+  {
+   "id": "coco_1818",
+   "source": "coco_val2017",
+   "file": "coco/000000001818.jpg",
+   "width": 640,
+   "height": 425,
+   "references": [
+    "A zebra in the grass who is cleaning himself.",
+    "A baby giraffe drinking milk from it's mother in a field.",
+    "A baby zebra is suckling milk from its mother.",
+    "a baby zebra nursing from an adult zebra",
+    "Baby zebra sucking milk from its mothers teat."
+   ],
+   "license": "Attribution-NonCommercial-ShareAlike License",
+   "flickr_url": "http://farm9.staticflickr.com/8436/7923308928_2f92f0a111_z.jpg"
+  },
+  {
+   "id": "coco_78420",
+   "source": "coco_val2017",
+   "file": "coco/000000078420.jpg",
+   "width": 640,
+   "height": 480,
+   "references": [
+    "A brown and black cat laying on laptop next to a chair.",
+    "A cat is curled up next to a laptop computer.",
+    "A cat sleeping on the edge of a laptop computer.",
+    "A cat curled up by the keyboard of a laptop.",
+    "Cat sleeping in front of a powered on laptop computer."
+   ],
+   "license": "Attribution-NonCommercial-NoDerivs License",
+   "flickr_url": "http://farm1.staticflickr.com/48/140268688_947e2bcc96_z.jpg"
+  },
+  {
+   "id": "coco_106912",
+   "source": "coco_val2017",
+   "file": "coco/000000106912.jpg",
+   "width": 612,
+   "height": 612,
+   "references": [
+    "A young boy riding a skateboard across a parking lot.",
+    "A boy skateboards on concrete behind a backyard.",
+    "The young skateboarder is riding on a cement driveway.",
+    "A skateboarder behind a house on a cement pad.",
+    "a person rising a skate board in a lot"
+   ],
+   "license": "Attribution-NonCommercial-ShareAlike License",
+   "flickr_url": "http://farm8.staticflickr.com/7142/6710963415_92e9a3cd5e_z.jpg"
+  },
+  {
+   "id": "coco_272364",
+   "source": "coco_val2017",
+   "file": "coco/000000272364.jpg",
+   "width": 428,
+   "height": 640,
+   "references": [
+    "a few giraffes that are reaching to eat",
+    "These giraffes are feeding on hanging plants in a tree",
+    "Four tall giraffe are looking up to eat from a feeder.",
+    "four brown and white giraffes eating greens together",
+    "Four giraffes are reaching in the tree for food."
+   ],
+   "license": "Attribution License",
+   "flickr_url": "http://farm4.staticflickr.com/3354/3262516437_2f4c70fa62_z.jpg"
+  },
+  {
+   "id": "coco_94157",
+   "source": "coco_val2017",
+   "file": "coco/000000094157.jpg",
+   "width": 372,
+   "height": 640,
+   "references": [
+    "Large clock tower sitting in front of a park.",
+    "A large, ornate clock tower rises above another skyscraper.",
+    "A group of people in a park with a tall clock tower in the background.",
+    "A clock tower in front of a building",
+    "A large brick clock tower stands high above the trees."
+   ],
+   "license": "Attribution-NonCommercial-NoDerivs License",
+   "flickr_url": "http://farm9.staticflickr.com/8052/8137275244_b6b2c4498d_z.jpg"
+  },
+  {
+   "id": "coco_427034",
+   "source": "coco_val2017",
+   "file": "coco/000000427034.jpg",
+   "width": 640,
+   "height": 480,
+   "references": [
+    "a person and their dog are browsing on the mac book",
+    "A brown and black dog standing next to a man sitting on a laptop computer.",
+    "A dog is resting it's head on a laptop while watching the screen.",
+    "A dog has it's face on a laptop computer.",
+    "A dog resting its head on a laptop keyboard."
+   ],
+   "license": "Attribution License",
+   "flickr_url": "http://farm5.staticflickr.com/4146/4845125160_b23cf4bd2d_z.jpg"
+  },
+  {
+   "id": "coco_9448",
+   "source": "coco_val2017",
+   "file": "coco/000000009448.jpg",
+   "width": 551,
+   "height": 640,
+   "references": [
+    "A little girl holds up a big blue umbrella.",
+    "a young girl stands with her arms wrapped around a large blue umbrella",
+    "A girl in a pink shirt holding a blue umbrella.",
+    "A little girl who is holding an umbrella.",
+    "A little girl with a big, blue umbrella"
+   ],
+   "license": "Attribution-NonCommercial License",
+   "flickr_url": "http://farm6.staticflickr.com/5255/5389014889_0c50cf03cf_z.jpg"
+  },
+  {
+   "id": "coco_464251",
+   "source": "coco_val2017",
+   "file": "coco/000000464251.jpg",
+   "width": 640,
+   "height": 458,
+   "references": [
+    "A small red bird perched by a wooden flower box",
+    "a red and black bird perched on a rail",
+    "A bird is sitting on a railing next to a potted plant.",
+    "a red bird pirched on a wooden ledge",
+    "a nice bird standing on a bench gazing at"
+   ],
+   "license": "Attribution-NonCommercial-ShareAlike License",
+   "flickr_url": "http://farm4.staticflickr.com/3708/9334504979_2fca2d5f69_z.jpg"
+  },
+  {
+   "id": "coco_296969",
+   "source": "coco_val2017",
+   "file": "coco/000000296969.jpg",
+   "width": 640,
+   "height": 427,
+   "references": [
+    "A group of giraffe standing next to each other.",
+    "Family of giraffes standing out in the open.",
+    "a group of giraffes standing around by some trees",
+    "Smal and large giraffes are standing on the dirt.",
+    "A group of giraffes standing in dirt field with trees in background."
+   ],
+   "license": "Attribution-ShareAlike License",
+   "flickr_url": "http://farm9.staticflickr.com/8454/8070831125_45bb9e5dce_z.jpg"
+  },
+  {
+   "id": "coco_196442",
+   "source": "coco_val2017",
+   "file": "coco/000000196442.jpg",
+   "width": 640,
+   "height": 427,
+   "references": [
+    "a man holding onto a some wires while skiin",
+    "A snow skier is being pulled by a rope overhead.",
+    "A skier is para-sailing in the snow with other skiers.",
+    "a person is skiing with a bunch of flags around",
+    "The skier is making a high jump in the snow."
+   ],
+   "license": "Attribution-NonCommercial-ShareAlike License",
+   "flickr_url": "http://farm4.staticflickr.com/3556/3419000752_3284fd11c8_z.jpg"
+  },
+  {
+   "id": "coco_376264",
+   "source": "coco_val2017",
+   "file": "coco/000000376264.jpg",
+   "width": 640,
+   "height": 481,
+   "references": [
+    "a table with a laptop and various other items.",
+    "a desk with a laptop a tea pot and a cup",
+    "A table covered with various items that include a laptop, tea kettle and plate.",
+    "Cluttered work space includes computer and tea kettle",
+    "A desk topped with snacks and electronics with office supplies."
+   ],
+   "license": "Attribution-NonCommercial-NoDerivs License",
+   "flickr_url": "http://farm4.staticflickr.com/3013/3024690776_d91357d6b4_z.jpg"
+  },
+  {
+   "id": "coco_235857",
+   "source": "coco_val2017",
+   "file": "coco/000000235857.jpg",
+   "width": 640,
+   "height": 426,
+   "references": [
+    "Some cows eat grass together in a field.",
+    "Three cows grazing in a field of green grass",
+    "Three cows two black and one brown grazing in a green field.",
+    "A brown cow and two black cows eating grass in a field.",
+    "some cows are eating grass in a field"
+   ],
+   "license": "Attribution-NonCommercial-NoDerivs License",
+   "flickr_url": "http://farm9.staticflickr.com/8325/8117923354_1381eaa26f_z.jpg"
+  },
+  {
+   "id": "coco_329447",
+   "source": "coco_val2017",
+   "file": "coco/000000329447.jpg",
+   "width": 640,
+   "height": 505,
+   "references": [
+    "A sheepdog runs around a herd of cows in a fenced-in field.",
+    "a border collie runs around a small herd of cows in the yard",
+    "A dog and some cattle by a fence..",
+    "A dog runs around a herd of cows in a field.",
+    "Cows in a field being rounded up by a herding dog."
+   ],
+   "license": "Attribution-NonCommercial-NoDerivs License",
+   "flickr_url": "http://farm8.staticflickr.com/7012/6830903723_eb2df17454_z.jpg"
+  },
+  {
+   "id": "coco_338625",
+   "source": "coco_val2017",
+   "file": "coco/000000338625.jpg",
+   "width": 640,
+   "height": 480,
+   "references": [
+    "A double city bus is pulled up to a bus stop.",
+    "A city street scene with a bus and buildings.",
+    "A city white bus stopped at a bus stop in front of tall buldings.",
+    "A stopped bus pulled up to the bus stop",
+    "A city bus that is stopped at a bus stop"
+   ],
+   "license": "Attribution-NonCommercial License",
+   "flickr_url": "http://farm6.staticflickr.com/5471/9063817118_fb589ae433_z.jpg"
+  },
+  {
+   "id": "coco_356968",
+   "source": "coco_val2017",
+   "file": "coco/000000356968.jpg",
+   "width": 640,
+   "height": 480,
+   "references": [
+    "A brown horse with blonde hair standing in an open field.",
+    "A brown horse walking outside in the grass",
+    "A lone horse walking through a grassy field.",
+    "A brown horse with a white mane is on the grass.",
+    "A single horse trotting around in a field."
+   ],
+   "license": "Attribution-NonCommercial-NoDerivs License",
+   "flickr_url": "http://farm5.staticflickr.com/4040/5079168442_a06e49f57a_z.jpg"
+  },
+  {
+   "id": "coco_485844",
+   "source": "coco_val2017",
+   "file": "coco/000000485844.jpg",
+   "width": 576,
+   "height": 396,
+   "references": [
+    "a lady that has a bowl in her hand",
+    "This older photo depicts a woman working in a primitive kitchen.",
+    "A housewife holds a platter of food in the kitchen.",
+    "An old photo of a woman in the kitchen",
+    "The woman is placing a turkey into a black pan."
+   ],
+   "license": "Attribution-NoDerivs License",
+   "flickr_url": "http://farm8.staticflickr.com/7153/6442687011_accba3604f_z.jpg"
+  },
+  {
+   "id": "coco_72795",
+   "source": "coco_val2017",
+   "file": "coco/000000072795.jpg",
+   "width": 640,
+   "height": 480,
+   "references": [
+    "a group of ball players playing on a field in front of an audience",
+    "A batter standing a home plate in a baseball field.",
+    "The batter is tapping his bat on home plate.",
+    "A baseball player is at bat as the crowd watches.",
+    "A crowd watching a professional baseball game on a sunny day"
+   ],
+   "license": "Attribution-NonCommercial License",
+   "flickr_url": "http://farm3.staticflickr.com/2514/3851485364_c467950a1b_z.jpg"
+  },
+  {
+   "id": "coco_322944",
+   "source": "coco_val2017",
+   "file": "coco/000000322944.jpg",
+   "width": 457,
+   "height": 640,
+   "references": [
+    "A woman with a badly bruised face holding a stuffed animal.",
+    "An injured woman holding a teddy bear close to her chest",
+    "A beat up girl holding a teddy bear.",
+    "a woman is hugging a stuffed mouse close to herself",
+    "A young woman with bruised face and bloody now holding a stuffed animal mouse in her arms."
+   ],
+   "license": "Attribution License",
+   "flickr_url": "http://farm9.staticflickr.com/8519/8577206423_cbffa5d62e_z.jpg"
+  },
+  {
+   "id": "coco_85682",
+   "source": "coco_val2017",
+   "file": "coco/000000085682.jpg",
+   "width": 640,
+   "height": 427,
+   "references": [
+    "people standing in line on a hill in snow gear",
+    "People waiting in line for the Ski lift.",
+    "The people are waiting to ski on the snowy mountain.",
+    "A line of skiers waiting for the ski lift.",
+    "There is a picture of an outside territory."
+   ],
+   "license": "Attribution-NonCommercial-ShareAlike License",
+   "flickr_url": "http://farm9.staticflickr.com/8233/8592261757_a4058377fd_z.jpg"
+  },
+  {
+   "id": "coco_529966",
+   "source": "coco_val2017",
+   "file": "coco/000000529966.jpg",
+   "width": 640,
+   "height": 421,
+   "references": [
+    "Two glass bowls of oranges add up to more than enough.",
+    "Two clear glass bowls full of oranges on a bar.",
+    "A couple of glass bowls or oranges sitting on a metal counter.",
+    "Two bowls of lemons setting on a shelf.",
+    "Two bowls of oranges are sitting on a metal surface."
+   ],
+   "license": "Attribution-NonCommercial-NoDerivs License",
+   "flickr_url": "http://farm6.staticflickr.com/5176/5496934108_b1017f0375_z.jpg"
+  },
+  {
+   "id": "coco_510329",
+   "source": "coco_val2017",
+   "file": "coco/000000510329.jpg",
+   "width": 640,
+   "height": 480,
+   "references": [
+    "A tourist unfolds an umbrella near ancient ruins.",
+    "Adults standing on carved stone display overlooking large city.",
+    "A man and woman that are standing next to rocks.",
+    "A couple of men holding a black umbrella.",
+    "Two men on old architecture pull out umbrella and securing their belongings."
+   ],
+   "license": "Attribution-ShareAlike License",
+   "flickr_url": "http://farm8.staticflickr.com/7194/6992041145_6ef64c576b_z.jpg"
+  },
+  {
+   "id": "coco_277051",
+   "source": "coco_val2017",
+   "file": "coco/000000277051.jpg",
+   "width": 640,
+   "height": 427,
+   "references": [
+    "two little sparrows standing on a table by a knife",
+    "two gray white and brown birds a knife and a red table",
+    "A couple of small birds standing on top of a table.",
+    "Two sparrows sit n a table with a red tablecloth at an outdoor cafe.",
+    "Two birds perched on a table near a plate of food."
+   ],
+   "license": "Attribution-NonCommercial-ShareAlike License",
+   "flickr_url": "http://farm5.staticflickr.com/4067/4383973415_e93587c71d_z.jpg"
+  },
+  {
+   "id": "coco_273132",
+   "source": "coco_val2017",
+   "file": "coco/000000273132.jpg",
+   "width": 640,
+   "height": 633,
+   "references": [
+    "An elderly woman sitting on the bench resting.",
+    "An old woman leans on her back while sitting on an ornate bench.",
+    "A woman is sitting on a bench near a fence.",
+    "Older woman in dress sitting on a park bench.",
+    "An old woman sitting on a bench next to a fence."
+   ],
+   "license": "Attribution-NonCommercial-ShareAlike License",
+   "flickr_url": "http://farm4.staticflickr.com/3691/9432612125_11622614ef_z.jpg"
+  },
+  {
+   "id": "coco_435003",
+   "source": "coco_val2017",
+   "file": "coco/000000435003.jpg",
+   "width": 640,
+   "height": 427,
+   "references": [
+    "A laptop computer sitting on a desk next to a desktop monitor.",
+    "a computer desk with multiple computers and screens",
+    "A desk with two computer monitors and a laptop.",
+    "A computer desk that has three monitors on top of it.",
+    "A computer workstation with a laptop and two additional monitors."
+   ],
+   "license": "Attribution-NonCommercial-NoDerivs License",
+   "flickr_url": "http://farm1.staticflickr.com/106/283322282_c7c58460cc_z.jpg"
+  },
+  {
+   "id": "coco_135872",
+   "source": "coco_val2017",
+   "file": "coco/000000135872.jpg",
+   "width": 640,
+   "height": 427,
+   "references": [
+    "A desk with both a laptop computer and a desktop computer.",
+    "A desk containing a desktop and laptop computers.",
+    "A home office desk with a desktop computer, large flat screen monitor, and laptop computer on it.",
+    "a desk with a computer  a laptop and monitor",
+    "a desk with a laptop and a desktop computer"
+   ],
+   "license": "Attribution-NonCommercial-NoDerivs License",
+   "flickr_url": "http://farm2.staticflickr.com/1151/1336468896_300b173e2a_z.jpg"
+  },
+  {
+   "id": "coco_550797",
+   "source": "coco_val2017",
+   "file": "coco/000000550797.jpg",
+   "width": 361,
+   "height": 640,
+   "references": [
+    "Blue toilet in center of shot with tile floor.",
+    "A blue toilet in the corner of a bathroom.",
+    "A little powder room with a blue toilet, multicolored tile floor, and a colorful towel.",
+    "A blue toilet that is underneath a towel.",
+    "A blue toilet has the lid down in a bathroom."
+   ],
+   "license": "Attribution-NonCommercial-ShareAlike License",
+   "flickr_url": "http://farm5.staticflickr.com/4008/4294021596_6d99894793_z.jpg"
+  },
+  {
+   "id": "coco_292236",
+   "source": "coco_val2017",
+   "file": "coco/000000292236.jpg",
+   "width": 332,
+   "height": 500,
+   "references": [
+    "A couple of men standing next to train tracks.",
+    "Several people standing at a train station while a train arrives.",
+    "two men wait for a train at dusk",
+    "The backsides of people as they wait for a train coming in to the station.",
+    "Several people waiting on the side of train tracks as a train with it;s lights on comes down the track."
+   ],
+   "license": "Attribution-NonCommercial-ShareAlike License",
+   "flickr_url": "http://farm4.staticflickr.com/3592/3404233089_e67192c9a0_z.jpg"
+  },
+  {
+   "id": "coco_20571",
+   "source": "coco_val2017",
+   "file": "coco/000000020571.jpg",
+   "width": 539,
+   "height": 640,
+   "references": [
+    "a group of boats parked next to a dock in the water",
+    "A few fishing boats tied to a dock.",
+    "Two tug boats tied up to the dock.",
+    "some boats that are by a dock in some water",
+    "A tugboat sits beside a ferry on placid water with a mountain in the distance."
+   ],
+   "license": "Attribution-NoDerivs License",
+   "flickr_url": "http://farm4.staticflickr.com/3817/9480557162_281c81c07b_z.jpg"
+  },
+  {
+   "id": "coco_350003",
+   "source": "coco_val2017",
+   "file": "coco/000000350003.jpg",
+   "width": 640,
+   "height": 480,
+   "references": [
+    "A firetruck is near a brown building off a side street that veers from a main road.",
+    "A large red and yellow fire truck passed by a white car,",
+    "A firetruck with lights on is on a city street.",
+    "A fire engine has red and yellow checkers.",
+    "A firetruck parked outside a building in the city"
+   ],
+   "license": "Attribution-NonCommercial License",
+   "flickr_url": "http://farm9.staticflickr.com/8445/7858130416_bf868d66a5_z.jpg"
+  },
+  {
+   "id": "coco_345252",
+   "source": "coco_val2017",
+   "file": "coco/000000345252.jpg",
+   "width": 640,
+   "height": 479,
+   "references": [
+    "A boy waring headphones is playing a game on his computer.",
+    "a male in a brown shirt is typing on a keyboard",
+    "A young man sitting at a computer desk in front of a computer.",
+    "The boy is enjoying playing the game on the computer.",
+    "a young man sitting in front of a computer screen and laptop wearing headphones"
+   ],
+   "license": "Attribution-ShareAlike License",
+   "flickr_url": "http://farm1.staticflickr.com/39/83564850_64f070ac91_z.jpg"
+  },
+  {
+   "id": "coco_439290",
+   "source": "coco_val2017",
+   "file": "coco/000000439290.jpg",
+   "width": 640,
+   "height": 427,
+   "references": [
+    "A bunch of bananas hanging on the tree",
+    "A COUPLE OF TREES AND ONE WITH BANANAS IN IT",
+    "This banana tree has a bunch that is ripe",
+    "Lots of green bananas are hanging in the tree.",
+    "A tall banana plant with bunches of green bananas."
+   ],
+   "license": "Attribution License",
+   "flickr_url": "http://farm3.staticflickr.com/2798/4080153258_198168e787_z.jpg"
+  },
+  {
+   "id": "coco_400803",
+   "source": "coco_val2017",
+   "file": "coco/000000400803.jpg",
+   "width": 640,
+   "height": 427,
+   "references": [
+    "A man standing on top of an orange boat on a river.",
+    "a very large orange boat floating in a lake",
+    "A man is standing on the edge of a orange boat",
+    "a boat with some people on it drive through a water way",
+    "A big wide boat with some wires above it."
+   ],
+   "license": "Attribution License",
+   "flickr_url": "http://farm2.staticflickr.com/1153/4611657921_86a8cab295_z.jpg"
+  },
+  {
+   "id": "coco_86956",
+   "source": "coco_val2017",
+   "file": "coco/000000086956.jpg",
+   "width": 480,
+   "height": 640,
+   "references": [
+    "A man standing behind a woman holding a bat.",
+    "a couple of people having a few laughs with each other.",
+    "Three people standing next to each other all smiling .",
+    "A group of people with a man in the background with a stick.",
+    "a guy holds a bat and put it on a girl's head."
+   ],
+   "license": "Attribution-ShareAlike License",
+   "flickr_url": "http://farm4.staticflickr.com/3096/3125314369_32cb27ef9d_z.jpg"
+  },
+  {
+   "id": "coco_377000",
+   "source": "coco_val2017",
+   "file": "coco/000000377000.jpg",
+   "width": 527,
+   "height": 640,
+   "references": [
+    "A cat sitting by a window watching the rain.",
+    "a close up of a cat on a window sill looking out the window",
+    "A cat sitting in a window watching the rain drip on the window glass.",
+    "Young kitten along windowpane watching the rain tap on the glass.",
+    "A cat sitting on a sill looking out a window."
+   ],
+   "license": "Attribution-NonCommercial-NoDerivs License",
+   "flickr_url": "http://farm6.staticflickr.com/5021/5607314225_613a6fc8ac_z.jpg"
+  },
+  {
+   "id": "coco_559543",
+   "source": "coco_val2017",
+   "file": "coco/000000559543.jpg",
+   "width": 500,
+   "height": 333,
+   "references": [
+    "A little girl in a pink shirt holding a game controller.",
+    "Girls stands in living room with microphone.",
+    "A young girl with a video game controller in her hand.",
+    "A cute girl in pink is playing a video game.",
+    "A girl is playing a Wii videogame at Christmas time."
+   ],
+   "license": "Attribution-NonCommercial-NoDerivs License",
+   "flickr_url": "http://farm4.staticflickr.com/3084/3167056823_4b3292345b_z.jpg"
+  },
+  {
+   "id": "coco_527215",
+   "source": "coco_val2017",
+   "file": "coco/000000527215.jpg",
+   "width": 640,
+   "height": 426,
+   "references": [
+    "A man flying a kite on a beach with people standing around.",
+    "A person standing on a beach holding onto a kite string.",
+    "A man flying a kite while standing on a beach.",
+    "A man waves to people in the distance on a beach.",
+    "A blue tinted photograph of a man flying a kite on the beach."
+   ],
+   "license": "Attribution-ShareAlike License",
+   "flickr_url": "http://farm7.staticflickr.com/6208/6118912613_183765a80e_z.jpg"
+  },
+  {
+   "id": "coco_472046",
+   "source": "coco_val2017",
+   "file": "coco/000000472046.jpg",
+   "width": 640,
+   "height": 425,
+   "references": [
+    "A kitchen with a stove, sink, table, chairs and couches.",
+    "A large modern kitchen has pineapples on the counter.",
+    "a kitchen with two pineapples on the counter and a wok pot on the burner.",
+    "A kitchen and dining area in a house with an open floor plan that looks out over the landscape from a large set of windows.",
+    "Empty stylish kitchen and living room with big picture windows."
+   ],
+   "license": "Attribution-NonCommercial-ShareAlike License",
+   "flickr_url": "http://farm9.staticflickr.com/8316/7983019213_4cfe7eebde_z.jpg"
+  },
+  {
+   "id": "coco_112798",
+   "source": "coco_val2017",
+   "file": "coco/000000112798.jpg",
+   "width": 640,
+   "height": 359,
+   "references": [
+    "A cat is on papers on a computer desk.",
+    "a cat is laying on a table near a laptop and papers",
+    "a close up of a cat laying on a desk",
+    "there is a cat laying on the table enjoying the sun",
+    "A cat lying in the sun on a table."
+   ],
+   "license": "Attribution-NonCommercial-NoDerivs License",
+   "flickr_url": "http://farm8.staticflickr.com/7247/7034440829_2aa657e64b_z.jpg"
+  },
+  {
+   "id": "coco_404128",
+   "source": "coco_val2017",
+   "file": "coco/000000404128.jpg",
+   "width": 640,
+   "height": 427,
+   "references": [
+    "A propellor airplane is on a grassy runway.",
+    "The older airplane is about ready to take off from the runway.",
+    "A plan is shown sitting on the pavement.",
+    "A prop airplane parked along the side of a runway.",
+    "An old plane sitting on the grass beside the runway."
+   ],
+   "license": "Attribution-NonCommercial-NoDerivs License",
+   "flickr_url": "http://farm6.staticflickr.com/5304/5868834007_25e0d57d4d_z.jpg"
+  },
+  {
+   "id": "coco_479030",
+   "source": "coco_val2017",
+   "file": "coco/000000479030.jpg",
+   "width": 640,
+   "height": 424,
+   "references": [
+    "A large long train on a steel track.",
+    "A red and white train passing by a street.",
+    "A red train going down the track in the city.",
+    "A long red and white train travels near many other tracks.",
+    "Red and white commuter train riding down tracks next to the highway."
+   ],
+   "license": "Attribution License",
+   "flickr_url": "http://farm9.staticflickr.com/8400/8645262251_a715881431_z.jpg"
+  },
+  {
+   "id": "coco_571857",
+   "source": "coco_val2017",
+   "file": "coco/000000571857.jpg",
+   "width": 640,
+   "height": 426,
+   "references": [
+    "In the desert, two people are sitting next to a small propeller plane next to a tent with other planes in the background.",
+    "A couple of people sitting in chairs behind an airplane.",
+    "A man and woman who have set up camp on a sandy beach",
+    "two people outside sitting on chairs with planes around them.",
+    "two people are camping out in the desert"
+   ],
+   "license": "Attribution License",
+   "flickr_url": "http://farm7.staticflickr.com/6179/6199221017_d5f37ecb01_z.jpg"
+  },
+  {
+   "id": "coco_464824",
+   "source": "coco_val2017",
+   "file": "coco/000000464824.jpg",
+   "width": 480,
+   "height": 640,
+   "references": [
+    "A person is bending over to pick something off the ground.",
+    "A man getting water from a fire hydrant on a sidewalk.",
+    "A man leans on a pole as he bends down.",
+    "The woman is bending over to pick something up off of the ground.",
+    "A person holds on to a post while bending over on a side walk."
+   ],
+   "license": "Attribution-NonCommercial-ShareAlike License",
+   "flickr_url": "http://farm3.staticflickr.com/2886/9474428857_7f6880c660_z.jpg"
+  },
+  {
+   "id": "coco_376442",
+   "source": "coco_val2017",
+   "file": "coco/000000376442.jpg",
+   "width": 480,
+   "height": 640,
+   "references": [
+    "A black plush toy sitting on the lid of a toilet.",
+    "A black stuffed animal sitting on top of a toilet in a bathroom stall with blue floor tile.",
+    "a toilet with a teddy bear sitting on the seat .",
+    "There is a stuffed animal sitting on the toliet.",
+    "This is a stuffed animal on a toilet seat."
+   ],
+   "license": "Attribution-NonCommercial-NoDerivs License",
+   "flickr_url": "http://farm4.staticflickr.com/3159/2973910210_91fbb8bc61_z.jpg"
+  },
+  {
+   "id": "coco_497344",
+   "source": "coco_val2017",
+   "file": "coco/000000497344.jpg",
+   "width": 500,
+   "height": 333,
+   "references": [
+    "A young boy sitting at a laptop computer.",
+    "A little kid that is on the phone and computer.",
+    "A little boy talking on the phone and playing with a computer.",
+    "A baby has one hand on a computer and holds a cellphone in the other hand.",
+    "A blue-eyed toddler talks on the cellphone while he types something on the laptop."
+   ],
+   "license": "Attribution-NoDerivs License",
+   "flickr_url": "http://farm4.staticflickr.com/3570/3404683624_b15ba92495_z.jpg"
+  },
+  {
+   "id": "coco_243344",
+   "source": "coco_val2017",
+   "file": "coco/000000243344.jpg",
+   "width": 480,
+   "height": 640,
+   "references": [
+    "Awake cat near ceiling on a closed refrigerator",
+    "A cat sitting on top of a metallic refrigerator freezer.",
+    "a cat sits on top of a fridge in a kitchen",
+    "a cat stands on top of a refrigerator looking down.",
+    "A long haired cat sitting on a refrigerator"
+   ],
+   "license": "Attribution-NonCommercial-ShareAlike License",
+   "flickr_url": "http://farm9.staticflickr.com/8108/8469020409_174f2eca69_z.jpg"
+  },
+  {
+   "id": "coco_398377",
+   "source": "coco_val2017",
+   "file": "coco/000000398377.jpg",
+   "width": 500,
+   "height": 375,
+   "references": [
+    "Three women sitting on a train seat on cellphones.",
+    "There are women that are talking on the cell phone",
+    "Commuters using their cell phones during a train ride",
+    "three females impatiently waiting. Two of them are on their cell phones",
+    "Group of women sitting down on a public train together."
+   ],
+   "license": "Attribution-NonCommercial-ShareAlike License",
+   "flickr_url": "http://farm4.staticflickr.com/3514/3706426310_77d7aa7e2d_z.jpg"
+  },
+  {
+   "id": "coco_535858",
+   "source": "coco_val2017",
+   "file": "coco/000000535858.jpg",
+   "width": 640,
+   "height": 426,
+   "references": [
+    "A woman trying to catch a wave on her surfboard.",
+    "A woman rides on a surfboard in the ocean.",
+    "A girl is getting ready to surf on a wave.",
+    "Boogie boarder about to catch a wave about to break on the ocean.",
+    "A woman rides a wave lying down on a surfboard."
+   ],
+   "license": "Attribution-NoDerivs License",
+   "flickr_url": "http://farm8.staticflickr.com/7290/8954396960_28a3a2c492_z.jpg"
+  },
+  {
+   "id": "coco_455597",
+   "source": "coco_val2017",
+   "file": "coco/000000455597.jpg",
+   "width": 640,
+   "height": 446,
+   "references": [
+    "a person in a kitchen with a stove some pots and pans",
+    "A woman is standing in a professional kitchen.",
+    "A worker passes through a cluttered restaurant kitchen.",
+    "Some people are working in the kitchen and cooking.",
+    "a woman in a congested kitchen in ahotel"
+   ],
+   "license": "Attribution License",
+   "flickr_url": "http://farm8.staticflickr.com/7171/6594914093_03ba0a761a_z.jpg"
+  },
+  {
+   "id": "coco_485130",
+   "source": "coco_val2017",
+   "file": "coco/000000485130.jpg",
+   "width": 640,
+   "height": 467,
+   "references": [
+    "A cake made to look like a wrestling ring.",
+    "there is a birthday cake that looks like a boxing ring",
+    "Wrestling ring sitting in the middle of an open room.",
+    "This is a birthday cake that looks like a wrestling rink.",
+    "A birthday cake shaped like a wrestling ring."
+   ],
+   "license": "Attribution-NonCommercial-ShareAlike License",
+   "flickr_url": "http://farm3.staticflickr.com/2494/3985643353_4eb03274ee_z.jpg"
+  },
+  {
+   "id": "coco_491008",
+   "source": "coco_val2017",
+   "file": "coco/000000491008.jpg",
+   "width": 640,
+   "height": 427,
+   "references": [
+    "A man and a woman holding up a pizza in a seating area.",
+    "The man and woman at the restaurant are holding a full pizza.",
+    "A waitress and a man are holding up a large pizza.",
+    "A man and woman are holding up a pizza.",
+    "A waitress and restaurant owner showing off a pizza in front of a mural of Venice."
+   ],
+   "license": "Attribution-NonCommercial-NoDerivs License",
+   "flickr_url": "http://farm3.staticflickr.com/2815/10157258843_741080cb6f_z.jpg"
+  },
+  {
+   "id": "coco_21604",
+   "source": "coco_val2017",
+   "file": "coco/000000021604.jpg",
+   "width": 512,
+   "height": 640,
+   "references": [
+    "A man in a suit is wearing a lit up tie.",
+    "A man posing for a portrait wearing a lighted tie",
+    "a man in a suits fixes his tie",
+    "A man in glasses and a light up tie.",
+    "A man with glasses and sideburns straightening his necktie that has lights on it."
+   ],
+   "license": "Attribution-NonCommercial-ShareAlike License",
+   "flickr_url": "http://farm9.staticflickr.com/8513/8497961219_75eb762d9a_z.jpg"
+  },
+  {
+   "id": "coco_548780",
+   "source": "coco_val2017",
+   "file": "coco/000000548780.jpg",
+   "width": 640,
+   "height": 427,
+   "references": [
+    "Two sexy young women sitting on a metal bench in front of flowers.",
+    "Two women sitting on a metal park bench",
+    "Two people sit on a bench with pigeons and other people nearby.",
+    "Two women sitting on a bench in the park.",
+    "Two women sitting on a bench with one smoking a cigarette."
+   ],
+   "license": "Attribution-ShareAlike License",
+   "flickr_url": "http://farm9.staticflickr.com/8451/8030321271_ebc4c4820c_z.jpg"
+  },
+  {
+   "id": "coco_211120",
+   "source": "coco_val2017",
+   "file": "coco/000000211120.jpg",
+   "width": 640,
+   "height": 379,
+   "references": [
+    "Several teddy bears appear to have a picnic on the grass.",
+    "Three stuffed teddy bears are set on a toy picnic scene.",
+    "Small teddy bears clothing on blankets with small bowls.",
+    "three teddy bears sitting on a picnic blankets",
+    "Three stuffed animals are dressed and sitting on a blanket in front of empty plates."
+   ],
+   "license": "Attribution-NonCommercial-NoDerivs License",
+   "flickr_url": "http://farm1.staticflickr.com/84/226992228_cb165ef8b0_z.jpg"
+  },
+  {
+   "id": "coco_125850",
+   "source": "coco_val2017",
+   "file": "coco/000000125850.jpg",
+   "width": 640,
+   "height": 489,
+   "references": [
+    "A cat laying in a green bowl on a wooden table.",
+    "A cat laying in a bowl asleep on the ground.",
+    "A cat is curled up and sleeping in a round tin.",
+    "A cat that has curled up in a bowl.",
+    "This gray cat has curled up into a ball"
+   ],
+   "license": "Attribution-NonCommercial-NoDerivs License",
+   "flickr_url": "http://farm4.staticflickr.com/3267/2515169000_468ccd0f81_z.jpg"
+  },
+  {
+   "id": "coco_45090",
+   "source": "coco_val2017",
+   "file": "coco/000000045090.jpg",
+   "width": 500,
+   "height": 259,
+   "references": [
+    "A couple of men in the water on surfboards.",
+    "People on a wave using a surf board in the ocean.",
+    "People riding the high waves on their surfboards.",
+    "Two surfers riding the waves in the ocean.",
+    "Two surfers riding the waves in the ocean."
+   ],
+   "license": "Attribution-NonCommercial-NoDerivs License",
+   "flickr_url": "http://farm3.staticflickr.com/2283/2353429019_e96f46a1ab_z.jpg"
+  },
+  {
+   "id": "coco_494913",
+   "source": "coco_val2017",
+   "file": "coco/000000494913.jpg",
+   "width": 640,
+   "height": 428,
+   "references": [
+    "Residential living room with fireplace and large television.",
+    "A man watches TV from his couch in a living room",
+    "A picture of someones living room white a person is watching TV.",
+    "A man relaxing on the couch watching television",
+    "A person sitting a the couch in a living room."
+   ],
+   "license": "Attribution-NonCommercial License",
+   "flickr_url": "http://farm3.staticflickr.com/2717/4223670633_7d3d72dfe8_z.jpg"
+  },
+  {
+   "id": "coco_407524",
+   "source": "coco_val2017",
+   "file": "coco/000000407524.jpg",
+   "width": 640,
+   "height": 480,
+   "references": [
+    "A plate holds a good size portion of a cooked, mixed dish that includes broccoli and pasta.",
+    "A macaroni and broccoli dish on a white plate.",
+    "Pasta with sauce and broccoli on white plate.",
+    "A pasta dish with mushrooms and broccoli in a cream sauce",
+    "A plate of pasta is shown with broccoli and ham."
+   ],
+   "license": "Attribution License",
+   "flickr_url": "http://farm3.staticflickr.com/2063/1537200374_fbe52bba8c_z.jpg"
+  },
+  {
+   "id": "coco_447611",
+   "source": "coco_val2017",
+   "file": "coco/000000447611.jpg",
+   "width": 500,
+   "height": 334,
+   "references": [
+    "A couple of people holding knives to the bottom of a laptop.",
+    "A computer laying upside down with two hands holding knives prying open a section of the back.",
+    "a knife being stuck into a laptop and stabbed",
+    "People sticking knives into the back side of a laptop",
+    "Two people are sticking knives into a laptop."
+   ],
+   "license": "Attribution-NonCommercial-NoDerivs License",
+   "flickr_url": "http://farm4.staticflickr.com/3256/3158856535_895383e5c5_z.jpg"
+  },
+  {
+   "id": "coco_137106",
+   "source": "coco_val2017",
+   "file": "coco/000000137106.jpg",
+   "width": 640,
+   "height": 427,
+   "references": [
+    "it looks like a hand of a small child with pink and white top",
+    "a hand of a person wearing a pink and white shirt",
+    "A child's hand holding onto a white counter top.",
+    "a baby's hand is holding on to the bed sheets",
+    "a person holds their hand on a bed"
+   ],
+   "license": "Attribution License",
+   "flickr_url": "http://farm8.staticflickr.com/7249/7766100538_3b55765abc_z.jpg"
+  },
+  {
+   "id": "coco_458255",
+   "source": "coco_val2017",
+   "file": "coco/000000458255.jpg",
+   "width": 640,
+   "height": 428,
+   "references": [
+    "A little girl is laying in bed with a book and a cat is next to her.",
+    "a woman laying in bed reading a book with a cat sitting on top",
+    "A girl reading a book in bed with a cat",
+    "A little girl laying in bed holding a book next to a black cat.",
+    "A woman lies in bed reading a book, and petting a cat."
+   ],
+   "license": "Attribution-NonCommercial-ShareAlike License",
+   "flickr_url": "http://farm5.staticflickr.com/4047/4532143755_023427b4e1_z.jpg"
+  },
+  {
+   "id": "coco_215245",
+   "source": "coco_val2017",
+   "file": "coco/000000215245.jpg",
+   "width": 640,
+   "height": 480,
+   "references": [
+    "A group of zebra's playing and grazing in a field.",
+    "A grassy field with various zebras standing next to each other.",
+    "A large group of zebra standing in the grass.",
+    "A large group of zebras graze in the grasslands of africa",
+    "a bunch of zebras out in a grassy field"
+   ],
+   "license": "Attribution License",
+   "flickr_url": "http://farm6.staticflickr.com/5187/5699107573_2059b4c0e1_z.jpg"
+  },
+  {
+   "id": "coco_119233",
+   "source": "coco_val2017",
+   "file": "coco/000000119233.jpg",
+   "width": 500,
+   "height": 334,
+   "references": [
+    "A cat sprawled out over the top of a laptop computer keyboard.",
+    "A cat lying a top on the desk on a laptop.",
+    "A black and white cat laying across the keyboard of a laptop.",
+    "A black-spotted cat lying on top of a laptop.",
+    "A cat is laying on top of a laptop computer."
+   ],
+   "license": "Attribution License",
+   "flickr_url": "http://farm3.staticflickr.com/2248/2050977429_aff593ecc2_z.jpg"
+  },
+  {
+   "id": "coco_434297",
+   "source": "coco_val2017",
+   "file": "coco/000000434297.jpg",
+   "width": 640,
+   "height": 480,
+   "references": [
+    "A white plate topped with food on a counter.",
+    "A white plate containing a serving of food.",
+    "Grilled chicken on a plate with spinach, broccoli, zucchini, and carrots.",
+    "A plate of prepared food has a sandwich and vegetables.",
+    "A plate with chicken, bread, broccoli and carrots."
+   ],
+   "license": "Attribution License",
+   "flickr_url": "http://farm5.staticflickr.com/4104/5194394266_cfbf249956_z.jpg"
+  },
+  {
+   "id": "coco_447313",
+   "source": "coco_val2017",
+   "file": "coco/000000447313.jpg",
+   "width": 640,
+   "height": 480,
+   "references": [
+    "Three zebras eating hay at the edge of a forest.",
+    "Pack of three zebras eating grass near a log.",
+    "Several zebras grazing on grasses in a natural habitat.",
+    "A group of zebras standing on a field next to a fallen tree.",
+    "A group of zebras graze on grass beneath tall trees."
+   ],
+   "license": "Attribution License",
+   "flickr_url": "http://farm9.staticflickr.com/8198/8209481947_d29bb75607_z.jpg"
+  },
+  {
+   "id": "coco_518213",
+   "source": "coco_val2017",
+   "file": "coco/000000518213.jpg",
+   "width": 640,
+   "height": 480,
+   "references": [
+    "a large bull with horns standing in a grassy field",
+    "The longhorn cattle has an interesting hair growth pattern.",
+    "a very ugly cow with long horns  staring",
+    "A hairy brown animal stands on the grass.",
+    "A yak walking through a field going towards a tree."
+   ],
+   "license": "Attribution-NonCommercial License",
+   "flickr_url": "http://farm9.staticflickr.com/8012/7141255773_d59892c817_z.jpg"
+  },
+  {
+   "id": "coco_235399",
+   "source": "coco_val2017",
+   "file": "coco/000000235399.jpg",
+   "width": 500,
+   "height": 375,
+   "references": [
+    "a white dog is sitting in the back of a truck and a mattress",
+    "a moving truck with a dog sitting in the back",
+    "A dog sits on the back of a truck.",
+    "A dog laying in the back of a moving truck.",
+    "Bull dog sitting on a furniture pad in a truck."
+   ],
+   "license": "Attribution-NonCommercial-NoDerivs License",
+   "flickr_url": "http://farm1.staticflickr.com/46/184980151_c4f80187fd_z.jpg"
+  },
+  {
+   "id": "coco_531771",
+   "source": "coco_val2017",
+   "file": "coco/000000531771.jpg",
+   "width": 424,
+   "height": 640,
+   "references": [
+    "This is a nice black over and under washer and dryer set.",
+    "A pair of black machines stacked on each other.",
+    "A two oven unit standing in a kitchen.",
+    "three types of microwaves on top of each other.",
+    "A black dual oven stove with controls on the top."
+   ],
+   "license": "Attribution-NonCommercial License",
+   "flickr_url": "http://farm8.staticflickr.com/7144/6546427703_c8e85c0c55_z.jpg"
+  },
+  {
+   "id": "coco_379441",
+   "source": "coco_val2017",
+   "file": "coco/000000379441.jpg",
+   "width": 640,
+   "height": 480,
+   "references": [
+    "A living room filled with furniture and a book shelf filled with books.",
+    "A living room has an over stacked bookcase.",
+    "A living room with a sofa, a bookcase, and a laptop charging.",
+    "Someone's living room contains a bookshelf with lots of books.",
+    "Somebody left a lap top plugged into the wall on a bench."
+   ],
+   "license": "Attribution-NonCommercial-NoDerivs License",
+   "flickr_url": "http://farm3.staticflickr.com/2727/4201573839_0204100e85_z.jpg"
+  },
+  {
+   "id": "coco_291619",
+   "source": "coco_val2017",
+   "file": "coco/000000291619.jpg",
+   "width": 640,
+   "height": 427,
+   "references": [
+    "There are two men playing frisbee on a field",
+    "Two young men playing frisbee at night on a sports field",
+    "A man catching a frisbee as another looks on.",
+    "A Frisbee player is about to catch a thrown Frisbee.",
+    "A man leaping up to catch a frisbee with another man running behind him."
+   ],
+   "license": "Attribution-NonCommercial-ShareAlike License",
+   "flickr_url": "http://farm4.staticflickr.com/3521/3468838422_c431c20c2e_z.jpg"
+  },
+  {
+   "id": "coco_520871",
+   "source": "coco_val2017",
+   "file": "coco/000000520871.jpg",
+   "width": 640,
+   "height": 425,
+   "references": [
+    "A pizza with burned edges is sitting on the table.",
+    "there is a large pizza pie on a white plate",
+    "A pizza on a plate on a table with wine.",
+    "a pizza sitting on a plate next to a little jar on a table",
+    "A pizza is topped with fine cheese and backed in a oven"
+   ],
+   "license": "Attribution License",
+   "flickr_url": "http://farm3.staticflickr.com/2548/3711888643_b930d29ec8_z.jpg"
+  },
+  {
+   "id": "coco_475064",
+   "source": "coco_val2017",
+   "file": "coco/000000475064.jpg",
+   "width": 640,
+   "height": 427,
+   "references": [
+    "The front of a restaurant with someone holding up food",
+    "A person  holding a piece of food in front of a cafe.",
+    "A person is holding up a half eaten pastry.",
+    "A person holding a piece of food in front of a sign.",
+    "A person standing before a big sign holding up a pastry."
+   ],
+   "license": "Attribution-NonCommercial-ShareAlike License",
+   "flickr_url": "http://farm8.staticflickr.com/7052/6837300500_1a7365be6a_z.jpg"
+  },
+  {
+   "id": "coco_455448",
+   "source": "coco_val2017",
+   "file": "coco/000000455448.jpg",
+   "width": 478,
+   "height": 640,
+   "references": [
+    "A cupcake being decorated with frosted and non pareils.",
+    "A person holding a cup cake with chocolate icing and sprinkles.",
+    "close up of a person holding a cupcake with sprinkles",
+    "a hand holding a cupcake with brown frosting and colorful balls on it",
+    "Holding a chocolate cupcake with colored sprinkles still in the paper cup."
+   ],
+   "license": "Attribution-NonCommercial License",
+   "flickr_url": "http://farm9.staticflickr.com/8445/7988611405_1493d60ef8_z.jpg"
+  },
+  {
+   "id": "coco_379332",
+   "source": "coco_val2017",
+   "file": "coco/000000379332.jpg",
+   "width": 500,
+   "height": 334,
+   "references": [
+    "A man on a court swinging a tennis racket.",
+    "A tennis player is looking up to the sky.",
+    "A black and white photo of a man playing tennis.",
+    "Black and white photograph of a man playing tennis",
+    "A man swinging a tennis racket in a t-shirt"
+   ],
+   "license": "Attribution License",
+   "flickr_url": "http://farm4.staticflickr.com/3646/3629717448_50fd2e7bab_z.jpg"
+  },
+  {
+   "id": "coco_410650",
+   "source": "coco_val2017",
+   "file": "coco/000000410650.jpg",
+   "width": 640,
+   "height": 480,
+   "references": [
+    "A beautiful young woman swinging a tennis racquet on a tennis court.",
+    "A tennis player taking a swing at  a ball",
+    "A woman hitting a tennis ball with a tennis racket",
+    "a woman on a tennis court getting ready to serve the ball",
+    "an image of a girl getting ready to serve on the tennis court"
+   ],
+   "license": "Attribution-NonCommercial License",
+   "flickr_url": "http://farm3.staticflickr.com/2557/3788244718_07ce61e7f6_z.jpg"
+  },
+  {
+   "id": "coco_189698",
+   "source": "coco_val2017",
+   "file": "coco/000000189698.jpg",
+   "width": 640,
+   "height": 428,
+   "references": [
+    "A picture of a road sign labeled bodacious drive.",
+    "A green street sign that says Bodacious Drive.",
+    "a clean street sign that reads bodacious dr",
+    "This green street name sign says bodacious drive",
+    "A street sign in a neighborhood during the day."
+   ],
+   "license": "Attribution License",
+   "flickr_url": "http://farm6.staticflickr.com/5287/5334889612_b1cbc99066_z.jpg"
+  },
+  {
+   "id": "coco_279887",
+   "source": "coco_val2017",
+   "file": "coco/000000279887.jpg",
+   "width": 640,
+   "height": 427,
+   "references": [
+    "A group of motorcycles are on display at a museum.",
+    "view of a motorcycle sitting amongst others at a convention",
+    "Many motorcycles are displayed in the store with descriptive signs posted near them.",
+    "a motorcycle parked in doors near other vehicles",
+    "there are many different bikes that are on display"
+   ],
+   "license": "Attribution-NonCommercial-ShareAlike License",
+   "flickr_url": "http://farm8.staticflickr.com/7145/6808948577_07cd718b6f_z.jpg"
+  },
+  {
+   "id": "coco_254368",
+   "source": "coco_val2017",
+   "file": "coco/000000254368.jpg",
+   "width": 392,
+   "height": 640,
+   "references": [
+    "A man laying in bed holding a plate of food.",
+    "A black and white picture of a man eating in his bed.",
+    "Adult man wearing bathrobe in bed while eating plate of food.",
+    "Man laying in bed eating a piece of toast.",
+    "A person with a piece of pizza over a plate."
+   ],
+   "license": "Attribution-NonCommercial-NoDerivs License",
+   "flickr_url": "http://farm6.staticflickr.com/5312/6939262636_6dbf9551b5_z.jpg"
+  },
+  {
+   "id": "coco_7574",
+   "source": "coco_val2017",
+   "file": "coco/000000007574.jpg",
+   "width": 640,
+   "height": 480,
+   "references": [
+    "A kitchen with a very messy counter space.",
+    "A kitchen that has black counters and wooden cabinets.",
+    "A metallic refrigerator freezer sitting inside of a kitchen.",
+    "a kitchen filled with assorted items like a bottle of dish soap",
+    "A kitchen with two sinks, a counter, detergent, a stove and a refrigerator in it."
+   ],
+   "license": "Attribution License",
+   "flickr_url": "http://farm8.staticflickr.com/7054/6924897347_7266fd119c_z.jpg"
+  },
+  {
+   "id": "coco_29187",
+   "source": "coco_val2017",
+   "file": "coco/000000029187.jpg",
+   "width": 640,
+   "height": 491,
+   "references": [
+    "A man riding a horse drawn carriage on a race track.",
+    "A young man riding in a cart attached to a horse.",
+    "A horse and horserace holing a person on a cart.",
+    "A man races a horse on a dirt track.",
+    "A person in a buggy drawn by a horse."
+   ],
+   "license": "Attribution-NoDerivs License",
+   "flickr_url": "http://farm9.staticflickr.com/8107/8494436156_41f475a9b0_z.jpg"
+  },
+  {
+   "id": "coco_144984",
+   "source": "coco_val2017",
+   "file": "coco/000000144984.jpg",
+   "width": 426,
+   "height": 640,
+   "references": [
+    "A child in a room with a remote in hand.",
+    "A young boy is playing Wii on the couch.",
+    "A small child sitting on the couch holding a Wii remote.",
+    "A boy wearing an orange t-shirt playing a video game while sitting on a couch.",
+    "A boy in an orange t-shirt plays a video game."
+   ],
+   "license": "Attribution-NonCommercial-ShareAlike License",
+   "flickr_url": "http://farm4.staticflickr.com/3134/2579783123_be76cfc803_z.jpg"
+  },
+  {
+   "id": "coco_569273",
+   "source": "coco_val2017",
+   "file": "coco/000000569273.jpg",
+   "width": 640,
+   "height": 480,
+   "references": [
+    "Fire hydrant sitting in the middle of a hiking area on the side of a gorge.",
+    "A fire hydrant near a hiking trail outside.",
+    "The fire hydrant is painted yellow and orange.",
+    "A yellow fire hydrant that is in the wilderness.",
+    "A fire hydrant is near people viewing a canyon."
+   ],
+   "license": "Attribution-NonCommercial-NoDerivs License",
+   "flickr_url": "http://farm2.staticflickr.com/1360/1480941013_a4fe5ad9b5_z.jpg"
+  },
+  {
+   "id": "coco_435880",
+   "source": "coco_val2017",
+   "file": "coco/000000435880.jpg",
+   "width": 640,
+   "height": 480,
+   "references": [
+    "A refrigerator next to a red wall in the kitchen.",
+    "A deep freezer and refrigerator are displayed together.",
+    "A kitchen has a refrigerator and ice chest.",
+    "A refrigerator and freezer placed next to one another.",
+    "A fridge with a lot of magnets in a kitchen."
+   ],
+   "license": "Attribution License",
+   "flickr_url": "http://farm5.staticflickr.com/4073/4930877922_1fab517ac9_z.jpg"
+  },
+  {
+   "id": "coco_494759",
+   "source": "coco_val2017",
+   "file": "coco/000000494759.jpg",
+   "width": 640,
+   "height": 480,
+   "references": [
+    "Two people on a beach flying a kite in the air.",
+    "Two people on a beach flying a kite.",
+    "Two people fly a kite on a beach.",
+    "Two people are on a beach flying a kite.",
+    "Two people standing on a sandy beach flying a kite."
+   ],
+   "license": "Attribution-NonCommercial-ShareAlike License",
+   "flickr_url": "http://farm2.staticflickr.com/1259/569042008_413ee88047_z.jpg"
+  },
+  {
+   "id": "coco_463802",
+   "source": "coco_val2017",
+   "file": "coco/000000463802.jpg",
+   "width": 640,
+   "height": 480,
+   "references": [
+    "A teddy bear watching a man with a tennis racket.",
+    "A teddy bear on a television with a tennis player holding a racket.",
+    "A stuffed animal watching an excited tennis player on TV.",
+    "A stuffed bear is watching a tennis player on television.",
+    "A man shouting with a tennis racquet in hand"
+   ],
+   "license": "Attribution-NonCommercial-ShareAlike License",
+   "flickr_url": "http://farm1.staticflickr.com/73/165652586_a93ac6121e_z.jpg"
+  },
+  {
+   "id": "coco_342295",
+   "source": "coco_val2017",
+   "file": "coco/000000342295.jpg",
+   "width": 333,
+   "height": 500,
+   "references": [
+    "A white toilet sitting next to a bath tub filled with paintings.",
+    "a bathtub with several large paintings in it",
+    "A bathroom view with a toilet and picture frames inside a tub.",
+    "Framed artwork and paintings stored vertically in an old bathtub",
+    "Someone put their art collection in their bath tub."
+   ],
+   "license": "Attribution-NonCommercial-NoDerivs License",
+   "flickr_url": "http://farm1.staticflickr.com/187/437137534_bc9e305616_z.jpg"
+  },
+  {
+   "id": "scicap_1107.2737v2-Figure1-1",
+   "source": "scicap_plus_test",
+   "file": "scicap/1107.2737v2-Figure1-1.png",
+   "figure_type": "Graph Plot",
+   "references": [
+    "An example of the functions gIk and γIk for I13 = {1, 8, 12} for r = 0.64."
+   ],
+   "mention_paragraphs": [
+    "Any element of ∆Ik is necessary and sufficient to make the second moment method to be successful as stated by theorem 1. An interesting question that is raised by the fact that ∆Ik may have many values is : what value gives the better lower bound? Precisely, is there a simple criterion that permits to select the δ ∈ ∆Ik that gives the best lower bound? In the example of Figure 1, the function gI13 is represented for I13 = {1, 8, 12}. It has three local maxima and so ∆I13 = {δ1, δ2, δ3} with gI13(δ2) < gI13(δ1) < gI13(δ3). As said before, the second moment method succeeds only for those three values of δ. An immediate candidate for this choice of the best value could be δ3 since it is the one for which the probability of satisfying a randomly selected constraint is maximum. In fact, the best lower bound is obtained using δ2. The latter is the one that maximizes the first moment of Xδ i.e. that corresponds to maxδ∈∆Ik (γIk(δ)). Since γIk(δ) = δ −δ (1− δ)δ−1 gIk(δ), the entropy term δ−δ (1− δ) δ−1 centered on 1/2 tends to favor values of δ near 1/2. We have verified this fact for many problems. We conjecture that for any problem defined by the set Ik, the best value of δ for the second moment method is the δ"
+   ],
+   "ocr_text": "gI13\"I13 0 0.2 0.4 0.6 0.8 1 ! !1 !2 !3 0.8 0.7 0.6 0.5 0.4 0.3 0.2 0.1 0",
+   "paper_id": "1107.2737v2"
+  },
+  {
+   "id": "scicap_1911.13056v2-Figure4-1",
+   "source": "scicap_plus_test",
+   "file": "scicap/1911.13056v2-Figure4-1.png",
+   "figure_type": "Graph Plot",
+   "references": [
+    "Policy distillation loss. The horizontal axis represents time (in hours) and the vertical axis represents DKL value."
+   ],
+   "mention_paragraphs": [
+    "Policy loss for described knowledge distillation process may be seen on figure 4. The distillation process took only 44 minutes and resulted agent produced almost identical policy in terms of DKL, and visually teacher and student behaviours were indistinguishable."
+   ],
+   "ocr_text": "",
+   "paper_id": "1911.13056v2"
+  },
+  {
+   "id": "scicap_1505.00558v2-Figure18-1",
+   "source": "scicap_plus_test",
+   "file": "scicap/1505.00558v2-Figure18-1.png",
+   "figure_type": "Graph Plot",
+   "references": [
+    "Run time. Random input. Large arrays. Integers."
+   ],
+   "mention_paragraphs": [
+    "Tests for large arrays are repeated 40 times. Results in Fig. 18, were Triple State comes either best or second to best. Dithered ordering is shown in Fig. 19 with much lesser times for Triple State. The difficult Fort ordering in Fig. 20, still shows Triple State being best while Bentley’s is very close. The rest of the results are in Appendix C and all confirm Triple State performed in lowest time."
+   ],
+   "ocr_text": "Triple State Dual Pivot VC++ GNU Bentely m s ) im e ( n T R u Array size 00 10 00 00 0 90 00 00 80 00 00 70 00 00 60 00 00 50 00 00 40 00 00 30 00 00 20 00 00 10 00 6000 5000 4000 3000 2000 1000 0",
+   "paper_id": "1505.00558v2"
+  },
+  {
+   "id": "scicap_1506.06357v1-Figure8-1",
+   "source": "scicap_plus_test",
+   "file": "scicap/1506.06357v1-Figure8-1.png",
+   "figure_type": "Graph Plot",
+   "references": [
+    "MP2P End-to-End Delay function of Distance"
+   ],
+   "mention_paragraphs": [
+    "For downward traffic, the Fig.8 shows that LOADng is very efficient in terms of average latency which is equal to 286 ms compared to AODV 1680 ms when the network is subject to variable distance to the concentrator and when the network is with increasing number of nodes is variable latency is equal to 463 ms and 2586 ms for LOADng and AODV respectively."
+   ],
+   "ocr_text": "AODV LOADng RPL MP2P End-to-End Delay vs Distance to the Concentrator (m s ) P 2 P y M e la n d D o -E E n d -t Distance(m) 3000 2500 2000 1500 1000 500 0 50 100 150 200 250 0",
+   "paper_id": "1506.06357v1"
+  },
+  {
+   "id": "scicap_1610.01753v1-Figure1-1",
+   "source": "scicap_plus_test",
+   "file": "scicap/1610.01753v1-Figure1-1.png",
+   "figure_type": "Graph Plot",
+   "references": [
+    "State of the art in collaborative tree exploration. Upper bounds are green and lower bounds are red. Thick lines show our results."
+   ],
+   "mention_paragraphs": [
+    "We give the first non-trivial lower bounds on the competitive ratio for collaborative tree exploration in the domain k ≥ √n (cf. Figure 1). More precisely, we show that for every constant c ∈ N, any given deterministic exploration strategy with k ≤ n logc n agents has competitive ratio Ω(log k/ log log k) on the set of all trees on n vertices. Note that this extends the range of the bound by Dynia et al. [16] for k < √ n significantly."
+   ],
+   "ocr_text": "k co m p . ra ti o O(1) [12] Ω(1) Ω(log k/ log log k) [16] ω(1) ko (1) [23] 18, 20] k/ lo g k [ O(k) O(1) O(1) Dε √ n n logc n Dn1+ε ∆D",
+   "paper_id": "1610.01753v1"
+  },
+  {
+   "id": "scicap_1510.04413v1-Figure7-1",
+   "source": "scicap_plus_test",
+   "file": "scicap/1510.04413v1-Figure7-1.png",
+   "figure_type": "Graph Plot",
+   "references": [
+    "Comparative analysis using PSNR with variable amount of embedded cipher."
+   ],
+   "mention_paragraphs": [
+    "by HVS. The PSNR values for the proposed algorithm are greater than the Karim' et al. [40] algorithm which shows high quality of stego images. Similarly, the MSE values of the proposed algorithm are small as compared to the Karim et al [40] method. Furthermore, the RMSE scores of proposed method are smaller than the Karim et al. [40] method. This means that the proposed algorithm provides promising results in terms of PSNR, confirming its better performance. The comparison graph of the proposed method and the Karim et al. [40] method is shown in Figure 6. The graph is drawn on the basis of fifteen different smooth and edgy images. The PSNR values are shown on the y-axis and image names on the x-axis. The graph clearly shows that there is up and down in the values of PSNR of the Karim et al. [40] method but the values of PSNR in the proposed method are almost the same and do not vary significantly. This verifies that the proposed method performs well for all types of images (edgy and smooth) as compared to the Karim et al [40] method. Table 2 shows the comparison of both methods using PSNR with variable amount of cipher that is embedded in the standard colour image (baboon) of the same dimension (256×256). Table 2 clearly shows that the proposed method gives more PSNR score as compared to the Karim et al. [40] method. Similarly, the comparative analysis graph of both the methods with variable amount of cipher embedded in a standard colour image of the same dimension is shown in Figure 7. The graph is drawn on the basis of PSNR values of Table 2. The comparative graph of the proposed algorithm as compared to the Karim et al. [40] algorithm clearly shows its better results in terms of PSNR which validate the effectiveness of the proposed method. Table 3 provides the comparison of both methods using PSNR with the same amount of cipher embedded and same standard image (baboon) but with different dimensions. The results of Table 3 show that there is variation in the PSNR score of the Karim et al. [40]"
+   ],
+   "ocr_text": "",
+   "paper_id": "1510.04413v1"
+  },
+  {
+   "id": "scicap_2001.11093v1-Figure13-1",
+   "source": "scicap_plus_test",
+   "file": "scicap/2001.11093v1-Figure13-1.png",
+   "figure_type": "Graph Plot",
+   "references": [
+    "SLO-ML code generation time for applications with different numbers of components."
+   ],
+   "mention_paragraphs": [
+    "vary this dimension between 100 and 1,000 application components – see Fig. 13. We observe a linear trend between code generation time and the number of components. Nevertheless, as the figure depicts, the code generation time is quite insignificant even in the case of a high number of components (e.g. ≈4ms for 1,000 components), underlining SLO-ML’s practicality in this regard."
+   ],
+   "ocr_text": "",
+   "paper_id": "2001.11093v1"
+  },
+  {
+   "id": "scicap_2001.01158v1-Figure2-1",
+   "source": "scicap_plus_test",
+   "file": "scicap/2001.01158v1-Figure2-1.png",
+   "figure_type": "Graph Plot",
+   "references": [
+    "The differences of the solution obtained by METHOD0, METHOD1, and METHOD2 for two dimensional heat conduction problem."
+   ],
+   "mention_paragraphs": [
+    "First a comparison between the solutions obtained by the three different methods is conducted. Fig. 2 shows the difference in solution obtained by different methods as a function of time, given by"
+   ],
+   "ocr_text": "error 1 0 error 2 0 e re nc di ffe 10-6 10-7 10-8 10-9 10-10 10-11 10-12 Time step 0 20 40 60 80 100",
+   "paper_id": "2001.01158v1"
+  },
+  {
+   "id": "scicap_2002.05198v1-Figure5-1",
+   "source": "scicap_plus_test",
+   "file": "scicap/2002.05198v1-Figure5-1.png",
+   "figure_type": "Graph Plot",
+   "references": [
+    "Classification error rate in the Semeion Handwritten Digit data set [22, 23] with different label noise subset (Q) sizes. Each data point is the average of 20 executions with different L and Q subsets."
+   ],
+   "mention_paragraphs": [
+    "Figure 5 and Table 5 show the classification accuracy comparison when the"
+   ],
+   "ocr_text": "LGC LP LNP PCC−1 PCC−2 PCC−3 LNR−PCC C la ss iﬁ ca ti o n E rr o r R a te Label Noise Subset Size (q) 0.9 0.8 0.7 0.6 0.5 0.4 0.3 0.2 0.1 0.0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 0",
+   "paper_id": "2002.05198v1"
+  },
+  {
+   "id": "scicap_2006.06443v1-Figure19-1",
+   "source": "scicap_plus_test",
+   "file": "scicap/2006.06443v1-Figure19-1.png",
+   "figure_type": "Graph Plot",
+   "references": [
+    "Resnet50 LR layers speedup on Intel Core i3-8130U CPU (x2 input size)"
+   ],
+   "mention_paragraphs": [
+    "For each layer CPU inference time was measured. Assuming that the compression rate value is fixed, each layer of the network was represented in CP form with rank corresponding to that compression rate, as was described in Section 3.3, and inference time of that decomposed layers was measured. For fixed compression rate the low rank inference time divided by original layer inference time is plotted on Fig. 7. The whole network compression-speedup relation is presented in Table 7. Also the same measurements were taken for the x2 and x3 input size, Fig. 19, Table 5 and Fig. 20, Table 6 correspondingly. All the convolutions were performed using pytorch deep learning framework.",
+    "Different layers tolerate compression differently: some allow multiple times compression rates without accuracy drop, the other cannot be fine-tuned to reasonable performance even with small residual norms. Therefore it is difficult to predict the result of algorithm with given hyperparameters beforehand. However, the size of the layers is increasing rapidly to the end - top 9 biggest layers contain 60% of the whole model weights, so one may compress only these layers to obtain reasonably small model. Unfortunately, this is not the same for speedup. On the first layers the input is quite large, therefore the inference time for them is not that different to the last layers inference time and they also should be decomposed to obtain reasonable speedup. Low sparsity rate (1% in this work) turns out to be enough to maintain the representation power of decomposed layers and make the decomposition process easier. Moreover, this high sparsity allows efficient implementation on CPU (Fig. 5). This implementation is up to 13 times faster for the first half of the resnet50 layers that their dense versions on CPU and shows tremendous speedup for the last half of layers (it is even faster than GPU inference of dense layers Fig. 6). The reasons for that fact should be further investigated, but one possible important detail is that the last layers inputs are small enough to fit into the processors top level cache completely, which empirically leads to no cache misses at all. If this is the case, the algorithm might be efficiently extended to the larger inputs by splitting them into groups - this approach should also be further investigated. After all, sparsity itself showed promising results in the model size reduction(Gale et al. (2019), Ashouri et al. (2019), Frankle & Carbin (2019), etc.) but lacked the efficient implementation, so the proposed algorithm might become a key to make these approaches applicable in practice. The straightforward GPU implementation, however, doesn’t show such impressive results (Fig. 10). Anyway, it is already fast enough to obtain some speedup in practice and has the potential for improvement. Surprisingly, the most tough bound for the speedup for now is convolution with the low rank part of the decomposition. Even for quite high levels of compression the straightforward pytorch implementation gives no more than 4x speedup, also it is less efficient for small convolutions and large input (Fig. 7) and does not give any speedup for GPU inference. This operation should be implemented more efficiently, especially for small layers to make the decomposed models more useful. Also it should be noted that this decomposition works better for larger input sizes (Fig. 7, Fig. 19, Fig. 20 for 214x214, 418x418 and 632x632 picture sizes passed through the network). Thus in some cases this approach may be used only for the last layers of the network, while the others are compressed using some other method. With current low rank and sparse convolution implementations the decomposition is less effective for smaller layers of the network: we pay with huge accuracy drop for minor speedup (18), while compression level stays almost the same. For now it may be reasonable to use this compression method for big layers only, while the other layers may be compressed using some other method. In future more efficient implementation may make this method effective for the whole network compression."
+   ],
+   "ocr_text": "",
+   "paper_id": "2006.06443v1"
+  },
+  {
+   "id": "scicap_1710.06825v3-Figure3-1",
+   "source": "scicap_plus_test",
+   "file": "scicap/1710.06825v3-Figure3-1.png",
+   "figure_type": "Graph Plot",
+   "references": [
+    "CCDF of the EVM with 16-QAM; SNR = 10 dB, B = 128, U = 16, S = 1200, and N = 4096. The number next to the CCDF curves corresponds to the number of iterations for SQUID-OFDM."
+   ],
+   "mention_paragraphs": [
+    "We start by investigating the convergence of SQUID-OFDM for the 2-phase-bit case. Fig. 3 shows the complementary cumulative distribution function (CCDF) of the error-vector magnitude (EVM), with 16-QAM signaling for SNR = 10 dB. Here, the EVM for the uth UE (u = 1, . . . , U ) is defined as",
+    "case (i.e., when XWF = ẐWFFHN ∈ CB×N ), respectively. Interestingly, we see that SQUID-OFDM with only one iteration already significantly outperforms WF precoding in terms of EVM. Furthermore, we see from Table I that for T = 1, the complexity of SQUID-OFDM is just about 3 times higher than that of WF precoding. We also see from Fig. 3 that by increasing the number of iterations from 20 to 100, SQUIDOFDM attains only marginal EVM gains. In what follows, we set the number of iterations to T = 20. In this case, SQUID-OFDM requires approximately 14 times more realvalued multiplications than the WF precoder, assuming the parameters given in Section IV-A."
+   ],
+   "ocr_text": "2-phase-bit WF 2-phase-bit SQUID Inf.-res. WF F C D 1351020100 EVM [%] C 100 10−1 10−2 0 5 10 15 20 25 30 35 10−3",
+   "paper_id": "1710.06825v3"
+  },
+  {
+   "id": "scicap_1807.01117v3-Figure9-1",
+   "source": "scicap_plus_test",
+   "file": "scicap/1807.01117v3-Figure9-1.png",
+   "figure_type": "Graph Plot",
+   "references": [
+    "Plot of the normalized contraction of each tensile test"
+   ],
+   "mention_paragraphs": [
+    "The normalized contraction, that is, L̄ = l/l0 is recorded, where l0 is the initial height of the specimen, and l the current height of the specimen where it is most contracted (usually at the middle). The results can be seen in figure 9. Both the Godunov as well as Monaghan algorithms are not able to complete this benchmark, see chapter 9 for some discussion regarding this. The results of the remaining methods are quite interesting. Both Reveles algorithm as well as the total Lagrangian weak form algorithm are very close to the FEM solutions. The potential based as well as co-rotated algorithm converge to another, less contracted solution. This is not very surprising because the construction of these two algorithms is quite similar. More",
+    "surprising is that the weak form algorithm in the updated Lagrangian frame converges to this solution as well, even though it is way more similar to the algorithms in the other cluster in figure 9. This certainly necessitates further investigation. One reason for this might be that the algorithm is quite dissipative as can be seen in the next section, so it might lose some velocity in y direction over time."
+   ],
+   "ocr_text": "ul fem tl fem reveles potential corot ul weak tl weak ] [ − tu m e n o m r m u la n g d a liz e rm a n o time [s] 1.4 1.35 1.3 1.25 1.2 1.15 1.1 1.05 0 0.005 0.01 0.015 0.02 0.025 1",
+   "paper_id": "1807.01117v3"
+  },
+  {
+   "id": "scicap_1510.06527v1-Figure6-1",
+   "source": "scicap_plus_test",
+   "file": "scicap/1510.06527v1-Figure6-1.png",
+   "figure_type": "Graph Plot",
+   "references": [
+    "ROCs for ideal (continuous line) and non-ideal (dashed lines) RF front-end , when the CR network is equipped with5 SUs,SNR = 0 dB, the reporting channel is considered error free, andIBO = 3 dB, IRR = 20 dB, andβ = 100 Hz, for all the SUs."
+   ],
+   "mention_paragraphs": [
+    "The effects of RF impairments in cooperative sensing, when the reporting channel is considered error free, is illustrated in Fig. 6. In this figure, ROCs for ideal (continuous lines) and non-ideal (dashed lines) RF front-end SUs are presented, considering a CR network composed of nsu = 5"
+   ],
+   "ocr_text": "w/o cooperation OR rule AND rule False Alarm Probability ilit y ob ab n Pr ec tio D et 1.0 0.9 0.8 0.7 0.6 0.5 0.4 0.3 0.2 0.1 0.0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1.0 0.0",
+   "paper_id": "1510.06527v1"
+  },
+  {
+   "id": "scicap_1607.08737v1-Figure10-1",
+   "source": "scicap_plus_test",
+   "file": "scicap/1607.08737v1-Figure10-1.png",
+   "figure_type": "Graph Plot",
+   "references": [
+    "SNRs of the subchannels of hybrid MIMO systems whenh = D 2 tan(14.48◦)."
+   ],
+   "mention_paragraphs": [
+    "Fig. 9 and Fig. 10 illustrate the variation of the capacity and the subchannel SNRs of different systems at different transmit power values but of the same height. The red-dashed line and the blue-dotted line indicate the achieved spectral efficiency/SNRs of a 2-path 2-subarray hybrid",
+    "In Fig. 10, it can be found that, at this given height, the SNRs for the first two subchannels are almost the same for a 2-path 2-subarray MIMO system with large subarray separation. For the orthogonal beam pair {β1, β2} = {0, 2π/8}, the SNRs of the subchannels are closer to each other than the ones of non-orthogonal beam pair, e.g., {β1, β2} = {0, π/8}. For non-orthogonal beam pair {β1, β2} = {0, π/8}, only the first two good subchannels are used for transmission with low transmit power amount, e.g., PT = 5dBm. Meanwhile, the first two subchannels of the non-orthogonal beams have higher SNRs than the first two of the orthogonal ones. This gain is contributed by the complex array gains which we discussed earlier. Meanwhile, it can be found that at low transmit power, this gain is capable of providing higher spectral efficiencies as in Fig. 7(b) and Fig. 9. However, the better aligned beam pair ({β1, β2} = {0, 2π/8}) achieves higher spectral efficiencies at high transmit power range as the cases for wireless backhaul systems.",
+    "number of subchannels is reduced to two (Ns = 2, less spatial multiplexing) as shown in Fig. 10. When applying the waterfilling algorithm with the same amount of fill-in ’water’ to the LoS MIMO system (Ns = 2), higher SNRs (green-dashed-dotted) are observed with less spectral efficiency in comparison with a 2-path 2-subarray hybrid MIMO system (Ns = 4). However, SNRs of the 2-paths 1-subarray hybrid MIMO are almost aligning with the SNRs of the 2-path 2-subarray system. The sudden change/apparent of SNRs at PT value around 12 dBm is due to a change of the selected beam pair (from {β1, β2} = {0, π/8} to {β1, β2} = {0, 2π/8})."
+   ],
+   "ocr_text": "{N, P}={2, 2},β2= 2π 8 ; γ1 ; {N, P}={2, 2},β2= π 8 ; γ2 ; {N, P}={2, 1}, LoS ; γ3 ; {N, P}={1, 1}, C̃ ; γ4 ; B ) R (d S N PT (dBm) 30 20 10 0 −10 −20 5 10 15 20 25 −30",
+   "paper_id": "1607.08737v1"
+  },
+  {
+   "id": "scicap_1402.5483v1-Figure7-1",
+   "source": "scicap_plus_test",
+   "file": "scicap/1402.5483v1-Figure7-1.png",
+   "figure_type": "Graph Plot",
+   "references": [
+    "Average total power under different PU SNR and sourceSNR."
+   ],
+   "mention_paragraphs": [
+    "Finally, Fig.7 shows that there is a unique valley point in every curve, which corresponds to the optimal total power. Any other transmission probability and power allocation scheme will result in a higher total power consumption. In Fig.7, when the source SNR is 10dB and the PU SNR is −15dB, the optimal pt is 0.42, and the optimal total power is 4.8W. 5.1% of the power should be allocated to AmOS to achieve optimality."
+   ],
+   "ocr_text": "SNR PU =−10dB SNR source =10dB SNR PU =−10dB SNR source =15dB SNR PU =−15dB SNR source =10dB SNR PU =−15dB SNR source =15dB ow er al P T ot p t 6.5 6 5.5 5 4.5 4 0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 3.5",
+   "paper_id": "1402.5483v1"
+  },
+  {
+   "id": "scicap_2001.03336v1-Figure5-1",
+   "source": "scicap_plus_test",
+   "file": "scicap/2001.03336v1-Figure5-1.png",
+   "figure_type": "Graph Plot",
+   "references": [
+    "Average throughput versus the number of busy time slots."
+   ],
+   "mention_paragraphs": [
+    "In this section, we provide the performance comparisons between the proposed DRL algorithm and the baseline schemes in different scenarios. In particular, the convergence comparison is shown in Fig. 4, the performance comparisons when the number of busy time slots per time frame varies are shown in Figs. 5, 6, 7, and 8, the performance comparison when the packet arrival probability is varied is shown in Fig. 9, the performance comparisons when the probability that a block is found by the attacker are shown in Figs. 10 and 11, and the performance evaluations of the DRL algorithm when the number of blockchain networks varies are shown in Fig. 12. Before presenting the performance comparisons among the algorithms, we discuss how the DRL algorithm obtains the optimal policy to maximize the long-term reward.",
+    "(a) Impact of the number of busy time slots per frame: Figure 5 shows the performance comparison among the schemes as the number of busy time slots per frame is varied. As shown in the figure, the proposed DRL scheme significantly"
+   ],
+   "ocr_text": "DRL Random policy HTT policy Backscatter policy 9 10 A ve ra ge th ro ug hp ut (d at a un its /ti m e fr am e) 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 Number of busy time slots per time frame",
+   "paper_id": "2001.03336v1"
+  },
+  {
+   "id": "scicap_2011.00363v1-Figure2-1",
+   "source": "scicap_plus_test",
+   "file": "scicap/2011.00363v1-Figure2-1.png",
+   "figure_type": "Graph Plot",
+   "references": [
+    "Coding overhead vs. transmission distance of main channel B or channel C, dmain."
+   ],
+   "mention_paragraphs": [
+    "Fig. 2 shows the coding overhead (transmission redundancy) distributed over the auxiliary channel for four system configurations. The first and second one use a main channel B with 16PSK and 8PSK, respectively, while the third and fourth one use a main channel C with 16PSK and 8PSK, respectively. The redundancy R is given by Eq. (5). The FEC code rate RF = 0.8 is used for all channels. The total number of input symbols is set to K = 30 symbols (generation size). The Hamming distance given by Eq. (1) is ∆min = 60, then with Eq. (2) the number of erroneous bits that can be corrected by FEC is tk = 60−22 = 29 bits. The transmission distance of main channels is configured in the interval [200, 2000cm]. In this paper, we configure the auxiliary channel so that its residual BER and co-channel interference are approximately equal to 0. The bitrate of main channel should be configured so that it is higher than or equal to the auxiliary channel.",
+    "We can observe in Fig. 2 that the larger the transmission distance or modulation level, the higher the error bit rate; the redundancy increases with an increasing transmission distance and an increasing modulation level. In addition, the main channel C needs more additional data than the main channel B because channel C incurres more erroneous bits. For main channel B using 16PSK and 8PSK, the sender does not send any coding data when dmain < 650cm and dmain < 750cm, respectively. For main channel C using 16PSK and 8PSK, the sender does not send any coding data when dmain < 500cm and dmain < 600cm, respectively. In such cases, the auxiliary channel is unnecessary. However, the additional channel can be required to provide the coded data, when dmain ≥ 650cm for the main channel B with 16PSK, e.g., R = 11 coded symbols at dmain = 800cm, dmain ≥ 750cm for the main channel B with 8PSK, e.g., R = 1 coded symbols at dmain = 1200cm, dmain ≥ 500cm for the main channel C with 16PSK, e.g., R = 28 coded symbols at dmain = 1800cm, and dmain ≥ 600cm for the main channel C with 8PSK, e.g., R = 20 coded symbols at dmain = 1400cm.",
+    "Next, based on Eq. (6) we show the total code rate for THz transmission with sRLNC and FEC code rate in Fig. 3. Based on the analysis in Fig. 2, we see that the total code rate decreases with an increasing transmission distance and modulation level, and the total code rate of system with main channels C is lower than that of system with main channels B. The total code rate can be in the interval 0.489 ≤ RT ≤ 1 for the system of main channel B with 16PSK, 0.510 ≤ RT ≤ 1 for the system of main channel B with 8PSK, 0.418 ≤ RT ≤ 1 for the system of main channel C with both 16PSK and 8PSK.",
+    "Fig. 4 presents the total transmission overhead based on Eq. (7). Based on the analysis in Fig. 2, we see that the total transmission overhead increases with an increasing transmission distance and modulation level, and the total transmission overhead of system with main channels C is higher than that of system with main channels B. The total transmission overhead can be in the interval 0 ≤ θ ≤ 0.511 for the system of main channel B with 16PSK, 0 ≤ θ ≤ 0.490 for the system of main channel B with 8PSK, 0 ≤ θ ≤ 0.583 for the system of main channel C with both 16PSK and 8PSK.",
+    "Fig. 5 shows the transmission rate of auxiliary channel required for a reliable THz system to avoid a large receiving buffer size. Here, we fix the transmission distance of auxiliary channels to daux = 1.5m (note that we should set daux based on Eq. (11) so that the transmission rate of auxiliary channel Caux is not negative), cp = 3 · 108m/s as the propagation speed of light, and provide the transmission rate of main channel to be Cmain = 25GBd/s = 2 · 1011 · L [6], where L is the number of bits per symbol for a certain modulation level. The remaining configuration parameters are the same as configured for Fig. 2. The transmission rate of auxiliary channels is calculated with Eq. (10). Caux = 0 means there is no need for the auxiliary channel because FEC can correct all error bits from the main channel. Since the behaviors of",
+    "four kinds of THz system configuration is quite similar, we choose to explain an example of 2-channel THz system with a transmission rate Caux of auxiliary channel supporting for the main channel B with 16PSK. At first Caux increases from 0 bps to 6.037 · 109 bps with 600cm ≤ dmain ≤ 650cm, then gradually decreases from 6.037 · 109 bps to 3.186 · 109 bps with 650cm ≤ dmain ≤ 1100cm, increases from 3.186 · 109 bps to 5.711 · 109 bps with 1100cm ≤ dmain ≤ 1150cm and finally decreases from 5.711 · 109 bps to 3.091 · 109 bps with 1150cm ≤ dmain ≤ 2000cm. The reason of increasing Caux can be explained that those are the increasing amount of additional redundant symbols required, e.g., from 0 coded symbol at dmain = 600cm to 11 coded symbols at dmain = 650cm and from 11 coded symbol at dmain = 1100cm to 20 coded symbols at dmain = 1150cm in Fig. 2. The gradual decreasing of Caux is because the considering amount of redundancy sent is constant, e.g., 11 and 20 coded symbols for dmain intervals [650cm, 1100cm] and [1150cm, 2000cm], respectively, and at the same time the propagation delay τmain of main channel 16PSK increases with dmain leading to a decreasing transmission rate Caux, which has a fixed distance daux = 150cm << dmain. Finally, we conclude that since BER increases with an increasing modulation level of the main THz channel, i.e., increasing the amount of redundancy, the transmission rate of auxiliary channel increases when increasing the modulation level. Additionally, the results confirm our statement in Eq. (11) that when daux << dmain the transmission rate of auxiliary channel can be the lowest, whereby in order to reduce the buffering overhead, the native and coded data of the same generation will arrive at the receiver at the same time."
+   ],
+   "ocr_text": "",
+   "paper_id": "2011.00363v1"
+  },
+  {
+   "id": "scicap_1903.06950v1-Figure5-1",
+   "source": "scicap_plus_test",
+   "file": "scicap/1903.06950v1-Figure5-1.png",
+   "figure_type": "Graph Plot",
+   "references": [
+    "Total and user compute times for each graph"
+   ],
+   "mention_paragraphs": [
+    "We examine the total time taken to execute our Eulerian circuit Spark application for the 5 candidate graphs, as reported in the Spark logs. This time in minutes (blue line) is shown in the Y axis of Fig. 5 for the different graph sizes and with their partition counts in the X axis. We also plot the user compute time taken strictly within our code logic (red line). The difference between the two is the platform’s overhead for data transfers, coordination, scheduling tasks, etc."
+   ],
+   "ocr_text": "Compute Time in ) Total Time in m ke n( e Ta Ti m 40 30 20 10 0 G20_P2 G30_P3 G40_P4 G40_P8 G50_P8 Graph Size",
+   "paper_id": "1903.06950v1"
+  },
+  {
+   "id": "scicap_2006.06443v1-Figure6-1",
+   "source": "scicap_plus_test",
+   "file": "scicap/2006.06443v1-Figure6-1.png",
+   "figure_type": "Graph Plot",
+   "references": [
+    "Resnet50 layers GPU inference times"
+   ],
+   "mention_paragraphs": [
+    "Different layers tolerate compression differently: some allow multiple times compression rates without accuracy drop, the other cannot be fine-tuned to reasonable performance even with small residual norms. Therefore it is difficult to predict the result of algorithm with given hyperparameters beforehand. However, the size of the layers is increasing rapidly to the end - top 9 biggest layers contain 60% of the whole model weights, so one may compress only these layers to obtain reasonably small model. Unfortunately, this is not the same for speedup. On the first layers the input is quite large, therefore the inference time for them is not that different to the last layers inference time and they also should be decomposed to obtain reasonable speedup. Low sparsity rate (1% in this work) turns out to be enough to maintain the representation power of decomposed layers and make the decomposition process easier. Moreover, this high sparsity allows efficient implementation on CPU (Fig. 5). This implementation is up to 13 times faster for the first half of the resnet50 layers that their dense versions on CPU and shows tremendous speedup for the last half of layers (it is even faster than GPU inference of dense layers Fig. 6). The reasons for that fact should be further investigated, but one possible important detail is that the last layers inputs are small enough to fit into the processors top level cache completely, which empirically leads to no cache misses at all. If this is the case, the algorithm might be efficiently extended to the larger inputs by splitting them into groups - this approach should also be further investigated. After all, sparsity itself showed promising results in the model size reduction(Gale et al. (2019), Ashouri et al. (2019), Frankle & Carbin (2019), etc.) but lacked the efficient implementation, so the proposed algorithm might become a key to make these approaches applicable in practice. The straightforward GPU implementation, however, doesn’t show such impressive results (Fig. 10). Anyway, it is already fast enough to obtain some speedup in practice and has the potential for improvement. Surprisingly, the most tough bound for the speedup for now is convolution with the low rank part of the decomposition. Even for quite high levels of compression the straightforward pytorch implementation gives no more than 4x speedup, also it is less efficient for small convolutions and large input (Fig. 7) and does not give any speedup for GPU inference. This operation should be implemented more efficiently, especially for small layers to make the decomposed models more useful. Also it should be noted that this decomposition works better for larger input sizes (Fig. 7, Fig. 19, Fig. 20 for 214x214, 418x418 and 632x632 picture sizes passed through the network). Thus in some cases this approach may be used only for the last layers of the network, while the others are compressed using some other method. With current low rank and sparse convolution implementations the decomposition is less effective for smaller layers of the network: we pay with huge accuracy drop for minor speedup (18), while compression level stays almost the same. For now it may be reasonable to use this compression method for big layers only, while the other layers may be compressed using some other method. In future more efficient implementation may make this method effective for the whole network compression."
+   ],
+   "ocr_text": "",
+   "paper_id": "2006.06443v1"
+  },
+  {
+   "id": "scicap_1711.09177v3-Figure4-1",
+   "source": "scicap_plus_test",
+   "file": "scicap/1711.09177v3-Figure4-1.png",
+   "figure_type": "Graph Plot",
+   "references": [
+    "Accuracy curves of conventional learning methods."
+   ],
+   "mention_paragraphs": [
+    "After the feature extraction, several classical machine learning methods have been implemented, trained and evaluated with the feature data. The employed methods are (a) Decision Tree, (b) Logistic Regression, (c) Support Vector Machine (SVM) and (d) K-Nearest Neighbors (K-NN). However, depending on features from one single R-D map, the performance of all methods is less than satisfactory. This conduced to the use of feature vector sequence accumulated from several successive R-D maps (a so-called sample buffer). Each feature vector sequence is concatenated by feature vectors extracted from all successive samples in a buffer. Accordingly, the number of features used will increase from 7 (in the case of a buffer of size 1) to 70 (in the case of a buffer of size 10). As shown in Fig. 4, the classification accuracies of all the methods increase as the buffer size increases. The best test accuracy is reached using SVM as 95.3% at buffer size 10. However, such large buffer size induces a latency of more than 1 second, which leads to problems in safety critical real-time applications."
+   ],
+   "ocr_text": "K-Nearest Neighbors Support Vector Machine Logistic Regression Decision Tree ] c y [ % c c u ra T e s t A 95 90 85 80 Buffer Size 2 4 6 8 10",
+   "paper_id": "1711.09177v3"
+  },
+  {
+   "id": "scicap_2005.04530v1-Figure1-1",
+   "source": "scicap_plus_test",
+   "file": "scicap/2005.04530v1-Figure1-1.png",
+   "figure_type": "Graph Plot",
+   "references": [
+    "I-V characteristics of multilevel operations of the RRAM device. 8 conductance levels are shown, and the values read at a small voltage are 120, 80, 60, 50, 30, 20, 15 and 10 S, respectively. The inset shows the RRAM device structure."
+   ],
+   "mention_paragraphs": [
+    "Resistive memories (also known as memristors) are two-terminal devices whose resistance (conductance) can be changed by a voltage stimulus [10], [11]. The class of resistive memory devices includes various concepts, such as the resistive switching memory (RRAM) [12], [13], the phase change memory (PCM) [14] and the magneto-resistive memory (MRAM) [15]. Thanks to their small size and nonvolatile behavior, resistive memories have been widely considered as promising devices for memory technology [12], [13]. Most importantly, resistive memories enable stateful logic [16], [17] and in-memory analog computing [18], [19], thus circumventing the communication bottleneck between the memory and the processor which represents the main limitation of von Neumann machines. Fig. 1 shows the multilevel current-voltage (I-V) characteristics of a RRAM device, supporting the ability to store an arbitrary analog number mapped in the device conductance [19]-[21]. The RRAM conductance is controlled by the compliance current, namely the maximum current supplied by the select transistor during the set transition from high resistance to low resistance [17]. The device is fully reconfigurable, in that the application of a negative voltage can restore a high resistance in the device, thus preparing for another analog set operation. The 8",
+    "conductance levels in Fig. 1 will be employed in the following as discrete values to construct matrices and simulate the solution of linear systems within the circuit.",
+    "𝒙(𝑡 + ∆𝑡) = 𝛼𝑼𝒃 + (𝑰 − 𝛼𝑴)𝒙(𝑡), (7) where 𝛼 is a small dimensionless number given by 𝛼 = 𝐿0𝜔0∆𝑡 with ∆𝑡 being the incremental time. To verify the FD algorithm, we have run transient simulation for solving a linear system, comparing the iterative solution according to Eq. (7) with the SPICE (simulation program with integrated circuit emphasis) transient simulation result. A 3×3 matrix was randomly constructed with the 8 discrete values in Fig. 1, and the corresponding linear system was solved. Fig. 3 shows the time evolution of the output 𝒙(𝑡) for the linear system. The trajectories of FD algorithm results appear highly consistent with the ones of circuit simulation, also both the asymptotic results are in line with the steady-state solution. A concern about the OAs is the slew rate, which limits the response time of the output in case of large signals. Our adopted OA (AD823 from Analog Devices) has a slew rate of 22 V/s, which guarantees that the circuit operates in the small signal response area in our simulation. From the simulation results, the steady-state output amplitude is reached in a computing time below 1 s, which is defined as the time for the norm of error dropping below 10-3.",
+    "To support the 𝜆𝑚𝑖𝑛 -controlled time complexity of the crosspoint circuit, we considered two 3×3 PD matrices containing discrete conductance levels in Fig. 1 with 𝜆𝑚𝑖𝑛 = 0.49 and 0.053, respectively. Fig. 4 shows the SPICE transient responses for the two linear systems. The simulation results indicate a faster response for the larger 𝜆𝑚𝑖𝑛, thus supporting the dominant role of 𝜆𝑚𝑖𝑛 . Fig. 5(a) summarizes the computing times for various 3×3 PD matrices, spanning two decades of 𝜆𝑚𝑖𝑛, and assuming 15 random vectors 𝒃 for each matrix 𝑨 . The results show that the computing time is inversely proportional to 𝜆𝑚𝑖𝑛, as also supported by the plot of computing time as a function of 1/𝜆𝑚𝑖𝑛 in the inset. As can be observed, there is a rough upper bound for the computing time, which scales linearly with 1/𝜆𝑚𝑖𝑛 and defines the time complexity of solving linear systems. In Fig.",
+    "simulated the solution of linear systems of the model covariance matrix in SPICE with these parasitic components considered. Specifically, each crosspoint resistive device was replaced by a sub-circuit module (Fig. 9), where the wire resistance and the parasitic capacitance are assumed according to interconnect parameters at 65 nm node in the ITRS table [39], and the device capacitance is calculated with dielectric constant of HfO2 [40]. The simulation results of the solution of linear systems for increasing size is reported in Fig. 10. The results indicate the same time complexity as the ideal circuit, namely O(logN) and O(1) for solving linear systems of the first-order and the second-order model variance matrix, respectively. Such a comparison supports the robustness of the crosspoint computing circuit against parasitics. The wire resistance imposes a relatively small error to the steady-state solution, which is alleviated by the intermediate interconnect technology for crosspoint arrays, in contrast to the aggressive downscaling of conventional high-density memory [38]. Also, increasing the crosspoint device resistance and adopting 3D integration are helpful to improving the solution accuracy [23]."
+   ],
+   "ocr_text": "Ti HfO2 C",
+   "paper_id": "2005.04530v1"
+  },
+  {
+   "id": "scicap_1804.06353v2-Figure2-1",
+   "source": "scicap_plus_test",
+   "file": "scicap/1804.06353v2-Figure2-1.png",
+   "figure_type": "Graph Plot",
+   "references": [
+    "Number of discussed papers by year, grouped by learning scenario."
+   ],
+   "mention_paragraphs": [
+    "We first examine the overall trends in the use of different learning scenarios. Fig. 2 shows how the surveyed papers for each scenario are distributed across different years. Transfer learning is clearly the most popular, although this has only become evident in recent years. A reason for this might be the availability of datasets and tools. For SSL and MIL, a specific type of data/labels need to be available, while for TL, it is possible to use a completely external dataset in addition to the target data, and pretrained models can be easily downloaded."
+   ],
+   "ocr_text": "",
+   "paper_id": "1804.06353v2"
+  },
+  {
+   "id": "scicap_1512.01886v2-Figure8-1",
+   "source": "scicap_plus_test",
+   "file": "scicap/1512.01886v2-Figure8-1.png",
+   "figure_type": "Graph Plot",
+   "references": [
+    "(color online) Intersession time. The intersession time distribution for each node is clearly longer for all null models that break TN."
+   ],
+   "mention_paragraphs": [
+    "The null models also impact the intersession times for each node, as shown in Figure 8. A clear separation of two groups of null models emerges between null models that break the node relation with session start time (omit TN), and those that preserve it. All null models that preserve TN have shorter intersession time, as the the temporal correlation between successive sessions is apparent. Large spikes in"
+   ],
+   "ocr_text": "Original LN−TN TL−LN LN TN TL /0 X ) P (x ≤ 1.0 0.8 0.6 0.4 0.2 0.0 Intersession Time (minutes) 10−2 10−1 100 101 102 103 104 105",
+   "paper_id": "1512.01886v2"
+  },
+  {
+   "id": "scicap_1107.4164v1-Figure7-1",
+   "source": "scicap_plus_test",
+   "file": "scicap/1107.4164v1-Figure7-1.png",
+   "figure_type": "Graph Plot",
+   "references": [
+    "Estimated Pij on QAP instance nug30"
+   ],
+   "mention_paragraphs": [
+    "We estimated the Σij with the same experiments done to compute growth curves and takeover time. We averaged the number of matings of each type at each generation over 103 runs. Then, we needed to know the probabilities P00, P01 and P11. We estimated these probabilities using a Bayesian process during the runs. We averaged the values obtained by generations over 500 runs. Figure 7 shows the result of the estimation of probabilities on the QAP instance Nug30. The ordonate scale is logarithmic because of the variations of probabilities. The curves representing the Pij intersect, so the value of β which maximizes P may change during a run. We computed P with estimated values of Pij taken by steps of 50 generations. The values of Σij are also generation dependent. For each value of β, we took the Σij value after 100 generations: that is Σij(100). During a run, it would correspond to allowing a stagnation period of 100 generations before stopping the run, which is reasonnable."
+   ],
+   "ocr_text": "00 01 11 Generations s b a b il it ie P ro 0 200 400 600 800 1000 1200 1400 1 0.1 0.01 0.001 0.0001 1e-05 1e-06",
+   "paper_id": "1107.4164v1"
+  },
+  {
+   "id": "scicap_1607.05390v1-Figure6-1",
+   "source": "scicap_plus_test",
+   "file": "scicap/1607.05390v1-Figure6-1.png",
+   "figure_type": "Graph Plot",
+   "references": [
+    "Fig. 6 Population diversity evolution trends for various singleand multitasking settings within group B puzzles. ST: singletasking; MT: multitasking."
+   ],
+   "mention_paragraphs": [
+    "2) Group B puzzles For the combination of puzzles in group B, we find qualitatively similar trends in the results as compared to the group A puzzles. This is evidenced by Figs. 5 and 6. Once again, multitasking across distinct tasks with underlying synergies, namely, B1 and B2, leads to the best performance. The spontaneous convergence of the population is demonstrated by the rapid drop in population diversity, as shown in Fig. 6, for MT (B1, B2). In other words, the claim that genetic transfer can often have the effect of promptly streamlining search towards promising regions of the search space, is further reinforced."
+   ],
+   "ocr_text": "",
+   "paper_id": "1607.05390v1"
+  },
+  {
+   "id": "scicap_1011.2879v2-Figure10-1",
+   "source": "scicap_plus_test",
+   "file": "scicap/1011.2879v2-Figure10-1.png",
+   "figure_type": "Graph Plot",
+   "references": [
+    "The cumulative probability distributions of the CIR against a neighboring cell."
+   ],
+   "mention_paragraphs": [
+    "Data Fusion II — reshaping the distribution of DT data. The reshaped DT data is obtained by DT+MMRs algorithm. The cumulative probability distributions of the original DT data and the reshaped DT data are illustrated in Figure 10 respectively. It can be found that the elements of IM generated from the reshaped DT data (marked as DT’ data in Figure 10) is different from those of IM generated from DT data."
+   ],
+   "ocr_text": "Threshold CIRthreshold DT data DT’ data lit y ba bi P ro iv e ul at C um CIR (dB) 1 0.9 0.8 0.7 0.6 0.5 0.4 0.3 0.2 0.1 0 5 10 15 20 25 30 35 40 0",
+   "paper_id": "1011.2879v2"
+  },
+  {
+   "id": "scicap_2008.00807v2-Figure10-1",
+   "source": "scicap_plus_test",
+   "file": "scicap/2008.00807v2-Figure10-1.png",
+   "figure_type": "Graph Plot",
+   "references": [
+    "Complementary labels improve training stability in low data regimes. As seen in this IoU evolution curve training on 25 images from CITYSCAPES, training with complementary labels yields smoother and clearer learning curves, which helps to identify signs of overfitting."
+   ],
+   "mention_paragraphs": [
+    "Over the course of our experiments, we noticed that the addition of complementary labels resulted in more stable training in the low data regime. Training with complementary labels yields smoother and clearer learning curves, as seen in Figure 10, which makes it easier to identify signs of overfitting."
+   ],
+   "ocr_text": "",
+   "paper_id": "2008.00807v2"
+  },
+  {
+   "id": "scicap_2010.08433v2-Figure2-1",
+   "source": "scicap_plus_test",
+   "file": "scicap/2010.08433v2-Figure2-1.png",
+   "figure_type": "Graph Plot",
+   "references": [
+    "Time-dependent AUC of risk prediction over time since the first admission to a memory clinic."
+   ],
+   "mention_paragraphs": [
+    "We also estimated the time-dependent area under the curve of receiver operating characteristics (Lambert and Chevret, 2016). It is a natural extension of a common AUC ROC analysis to possibly censored survival times where the patients’ cognitive health is usually better at the very first visit to a memory clinic, while their condition may deteriorate later. The time-dependent cumulative dynamic AUC ROC of all four models are presented in Fig. 2. The signature features outperformed the non-signature ones at all times and the inclusion of sequential information from switching medications improved AUC ROC at later times. However, both models struggle to reliably predict the future outcomes further than 3 years. This is due to the limitation of predictors and the available number of patients after 3 years rather than the capacity of our model.",
+    "of capturing sequential information can therefore maximise utilisation of longitudinal EHRs and can be valuable for supporting clinical decisions and prognostic models. In this work we implemented a signature-based approach to represent chronological events extracted using natural language processing from clinical notes. Extracted chronological events can be seen as a trajectory (path) embedded in a high-dimensional multi-modal space of events (i.e. different medications, interventions, measures, etc) and the signature uniquely characterises the path in the most succinct way. The signature-based feature extraction approach was compared to handcrafted features, comprising a slope and an intercept of MMSE scores over time and the median number of medications for each patient. The signatures represent a hierarchical collection of features, where the first order is proportional to linear statistical moments (i.e. mean) and is not sensitive to the order of data points, as illustrated in Table 1. We demonstrated that the sequential information about medications has significantly improved the timedemented AUC as captured by the signatures (Figure 2). In future works we will extend the proposed framework to include the structured information available in EHR (i.e. lab results, coded procedures or clinical encounters) and will develop an interpretability framework to make the signature-based models explainable."
+   ],
+   "ocr_text": "Sig no meds Non-sig no meds Sig with med Non-sig with meds UC en t A pe nd e- de Ti m 0.775 0.750 0.725 0.700 0.675 0.650 0.625 0.600 10 15 20 25 30 35 40 Months since the first admission to memory clinic",
+   "paper_id": "2010.08433v2"
+  },
+  {
+   "id": "scicap_1802.09396v4-Figure3-1",
+   "source": "scicap_plus_test",
+   "file": "scicap/1802.09396v4-Figure3-1.png",
+   "figure_type": "Graph Plot",
+   "references": [
+    "E ect of n on the Consumer’s Welfare, for = 1/3."
+   ],
+   "mention_paragraphs": [
+    "In Figure 3 we illustrate this dynamic for small n and an expected reward of = 1/3. Regardless of how many rms there are, it is welfare improving to the consumer to be slightly impatient and/or have a small search cost. This slight cost leads to the “perfect competition\" in information provision.",
+    "In this paper we explore the problem of information provision in a sequential, directed search setting. With frictions, the choice of whom to visit, and in what order, becomes paramount to the consumer. Each rm, all else equal, would prefer to be visited rst, and this a ects its choice of signal. With frictions, as long as the expected value of the quality, , is su ciently high, the unique symmetric equilibrium is one in which each rm chooses a signal that is fully informative. This can be contrasted with the unique symmetric equilibrium in the case without frictions, which, for nite n, is never fully informative. The consumer naturally prefers more informative signals, and so as long as the costs are su ciently low, she counterintuitively prefers the case with frictions (see Figure 3)."
+   ],
+   "ocr_text": "",
+   "paper_id": "1802.09396v4"
+  },
+  {
+   "id": "scicap_1704.07274v1-Figure4-1",
+   "source": "scicap_plus_test",
+   "file": "scicap/1704.07274v1-Figure4-1.png",
+   "figure_type": "Graph Plot",
+   "references": [
+    "Showing distribution of duration of segments with speech, non-speech and overlapped-speech. We could see that most of the segments had duration less than one second. Short-duration segments posed challenge in speaker diarization and behavioral speech processing. The overlapped speech and non-speech accounted for 28.71% and 29.57% of total duration leaving behind only 41.72% speech."
+   ],
+   "mention_paragraphs": [
+    "Figure 4 showed the distribution of duration of segments with speech, non-speech and overlapped-speech. We could see that most segments were short with less than 1 second duration. Short-duration segments were challenging with respect to speaker diarization and behavioral speech processing. We used ground-truth information from a PLTL session with approximately 87 minutes of audio data for generating this figure (Eval-Set-7, see Table 1). The overlapped-speech and non-speech accounted for 28.71% and 29.57% of total duration leaving behind 41.72% speech. The total number of overlappedspeech, non-speech and speech segments were 205, 738 and 1316 respectively, for this data. The data used for this analysis were Eval-Set-7 as given in Table 1. We used this dataset for validating the speech activity detection based on fusion of DNN-based pitch estimation and TO-comboSAD Sadjadi and Hansen [66], Ziaei et al. [88]. The results were shown in Table 7.",
+    "Speech activity detection (SAD) was evaluated on Eval-Set-7 (See Table 1 and the dataset was explained in Section 2.3. The evaluation results of SAD algorithms are collected in Table 7). Figure 4 shows the distribution of duration of speech, non-speech and overlappedspeech segments. Non-speech often contained several noise sources such as mumbling of far-speakers, writingon-the-white-board noise (impulsive) in addition to noise from fan and other background sources.",
+    "Table 7 shows the evaluation results on Eval-Set-7 data using methods described in Section 3.1. Figure 4 showed the duration-distribution of speech, non-speech and overlapped-speech segments. Non-speech often contained several noise sources such as mumbling of far speaker, writing-on-white-board noise in addition to noise from fan and other background sources. We used DNNbased pitch extractor (see Section 3.3) for SAD. The frames that were assigned zero(0) pitch were declared non-speech. TO-combo-SAD Ziaei et al. [88] was second SAD system used. Later, we fused the output of both systems. For frames where both system’s output were not same, we consider those frames as non-speech. Conse-"
+   ],
+   "ocr_text": "",
+   "paper_id": "1704.07274v1"
+  },
+  {
+   "id": "scicap_2008.02567v1-Figure2-1",
+   "source": "scicap_plus_test",
+   "file": "scicap/2008.02567v1-Figure2-1.png",
+   "figure_type": "Graph Plot",
+   "references": [
+    "Channel State Information for the human motion of standing up"
+   ],
+   "mention_paragraphs": [
+    "furniture such as tables, chairs, draws, etc. The human motion is then carried out between the antennas and the Channel State Information is then recorded while this human motion is carried out. As radio signal propagation is proportionate to the movement of the human, the CSI will differentiate as different motion takes place. The CSI will show certain properties when a certain movement is made by the human. In this paper we have recorded the CSI for multiple subjects sitting down on a chair and then standing from a chair. As there are many variations in the way the signals propagate and human movement will never be exactly the same, the movement should follow the same patterns in the CSI data. Some samples can be considered as good samples where interference is set to a minimum and some samples may be affected by ambient movement or atmosphere factors. Multiple samples are taken to try to capture the flow of the patterns and machine learning is used to attempt to classify the samples. The final dataset contains 30 samples each of sitting and standing. Figures 1 and 2 display the CSI of the 64 subcarriers of the USRP. Each colour represents a subcarrrier and the frequency of the subcarrier is shown along the Y-axis and time is shown along the X-axis while an activity is taking place. Figure 1 shows the pattern followed in a good sample of sitting down and Figure 2 shows the pattern followed in a good sample of standing up."
+   ],
+   "ocr_text": "",
+   "paper_id": "2008.02567v1"
+  },
+  {
+   "id": "scicap_1801.03890v1-Figure8-1",
+   "source": "scicap_plus_test",
+   "file": "scicap/1801.03890v1-Figure8-1.png",
+   "figure_type": "Graph Plot",
+   "references": [
+    "Routing convergence time for the testbed topologies"
+   ],
+   "mention_paragraphs": [
+    "Routing convergence times in the three testbeds are displayed in Figure 8. Clearly visible is the dependence on hop counts, each counting for an average delay of ≈ 100 ms—the PAM timer. While Paris is single-hop network and exhibits a single step in distribution, multiple steps represent hop count multiplicities in the multi-hop cases. No exceptional delays become visible. This is due to the moderate timing of the routing protocol which causes a low network utilization."
+   ],
+   "ocr_text": "Paris Grenoble (ring) Grenoble ] y [% ue nc Fr eq tiv e Re la 100 80 60 40 20 0 0 200 400 600 800 Convergence Time [ms]",
+   "paper_id": "1801.03890v1"
+  },
+  {
+   "id": "scicap_1712.07590v1-Figure9-1",
+   "source": "scicap_plus_test",
+   "file": "scicap/1712.07590v1-Figure9-1.png",
+   "figure_type": "Graph Plot",
+   "references": [
+    "The impact of angular spread on the transform efficiency. The user moving speed is 3 km/h. The UL SNR is 0 dB."
+   ],
+   "mention_paragraphs": [
+    "In Fig. 9, the impact of angular spread of the uplink receive signal is investigated. The total angular spread of the uplink signal is determined by the propagation environment, user locations, and the number of users. In Fig. 9, we compare the number of users of 2 and 4 to obtain different angular spread. The user locations are uniformly distributed in the angular domain. Obviously, the 4-user case has larger angular spread. It is observed that a larger angular spread leads to lower compression efficiency due to the fact that more beams are needed to cover the angular domain."
+   ],
+   "ocr_text": "W/O beam combination, 2 users W/O beam combination, 4 users SG-BC, B = 1, 4 users SG-BC, B = 1, 2 users SG-BC, B = 2, 4 users SG-BC, B = 2, 2 users en cy ffi ci on e es si om pr tia l c S pa 1 0.9 0.8 0.7 0.6 0.5 0.4 0.3 0.2 0.1 0 Number of RF chains 4 8 12 16",
+   "paper_id": "1712.07590v1"
+  },
+  {
+   "id": "scicap_1503.06382v1-Figure1.5-1",
+   "source": "scicap_plus_test",
+   "file": "scicap/1503.06382v1-Figure1.5-1.png",
+   "figure_type": "Graph Plot",
+   "references": [
+    "5: Possibilities for the behaviour of the stationary probability distribution in the regime <"
+   ],
+   "mention_paragraphs": [
+    "In the asymptotic regime <, the shape of the stationary probability distribution for the set of queue lengths Qh, can be either (S1) monotonically increasing, constant, and then monotonically decreasing, or (S2) constant. We shall see that this is decided by the extent of freedom that we have in the choice of λ(q) and µ(q). In the asymptotic regime <, the stationary probability of the smallest queue length in Qh is either (P1) O(V ) or (P2) O( √ V ). We shall see that this is decided by the form of the function c(.) at µ = λ or u−1(uc) as the case may be. The various possibilities are illustrated in Figure 1.5."
+   ],
+   "ocr_text": "",
+   "paper_id": "1503.06382v1"
+  },
+  {
+   "id": "scicap_2005.01589v1-Figure13-1",
+   "source": "scicap_plus_test",
+   "file": "scicap/2005.01589v1-Figure13-1.png",
+   "figure_type": "Graph Plot",
+   "references": [
+    "The packet loss versus speed"
+   ],
+   "mention_paragraphs": [
+    "The graph in Figure 13 presents a comparison of packet loss between the proposed scheme (DiffFH NEMO), (Diff NEMO) and NEMO BS protocol. The arrival form of packets relies on various aspects such as characteristics ofthe application, behaviour of network queuing, and so on. When the mobile router speed was varied (from 15 km/h to 90 km/h) in the consecutive mobility environment such as train or bus, the packets loss increases noticeably. This result from the fact the Home Agent (HA) doesn’t preserve the excessive packets that have been sent from the CN in the time of congestion as per the standard NEMO BS. The overcrowding in this situation is achieved by adjusting the network load to more than 1 Mbps in order to obtain high link congestion. Therefore, the packets that have been intercepted by HA to be sent to the intended the mobile router will be dropped until the HA will be updated with the new CoA of the mobile router and processed the BU. To minimize the packet loss the movement detection and configuration of a new CoA for the mobile router must be executed as quickly as possible. On contrary, the arriving packets from the CN via the MAP in the proposed scheme (Diff-FH NEMO) will be buffered by the new AR in advance, even before the DMR is able to establish its link there. So, the proposed scheme (Diff-FH NEMO) uses the HI message the sign for buffering at the NAR. Thus, this traffic buffering is managed legitimately to minimize the packets loss and smooth handover compared to other schemes, which is adequate to real-time application the"
+   ],
+   "ocr_text": "",
+   "paper_id": "2005.01589v1"
+  },
+  {
+   "id": "scicap_2009.03543v1-Figure4-1",
+   "source": "scicap_plus_test",
+   "file": "scicap/2009.03543v1-Figure4-1.png",
+   "figure_type": "Graph Plot",
+   "references": [
+    "Scheduling functions found by optimisers."
+   ],
+   "mention_paragraphs": [
+    "BFO-SGD are sourced from [Vien et al. 2018, Vellanki et al. 2019]). Note that our method achieves the lowest validation error of all approaches considered ([Vellanki et al. 2019] achieves a better result, but only be applying decreasing prior). Actual learning rate schedules are shown in figure 4 (learning rate schedule for BFO-SGD can be found in [Vellanki et al. 2019, Vien et al. 2018]. It is perhaps interesting to note that most solutions found are a simple rise/fall function with a single peak."
+   ],
+   "ocr_text": "10-d Line-Bernstein BFO-SP (projected) BFO-SP S3-BFO 0.1 0.08 0.06 0.04 0.02 0 5 10 15 0",
+   "paper_id": "2009.03543v1"
+  },
+  {
+   "id": "scicap_1811.09971v1-Figure3-1",
+   "source": "scicap_plus_test",
+   "file": "scicap/1811.09971v1-Figure3-1.png",
+   "figure_type": "Graph Plot",
+   "references": [
+    "Demonstration of cross-entropy loss values across different epochs on MNIST dataset."
+   ],
+   "mention_paragraphs": [
+    "Figure 3 shows the cross-entropy loss values over labeled node L across different epochs. One can note that, GLCN obtains obviously lower cross-entropy value than GCN at convergence, which clearly demonstrates the higher predictive accuracy of GLCN model. Also, the convergence speed of GLCN is just slightly slower than GCN, indicating the efficiency of GLCN. Figure 4 demonstrates 2D t-SNE [6] visualizations of the feature map output by the first convolutional layer of GCN [11] and GLCN, respectively. Different classes are marked by different colors. One can note that, the data of different classes are distributed more clearly and compactly in our GLCN representation, which demonstrates the desired discriminative ability of GLCN on conducting graph node representation and thus semi-supervised classification tasks."
+   ],
+   "ocr_text": "",
+   "paper_id": "1811.09971v1"
+  },
+  {
+   "id": "scicap_1503.04955v1-Figure3-1",
+   "source": "scicap_plus_test",
+   "file": "scicap/1503.04955v1-Figure3-1.png",
+   "figure_type": "Graph Plot",
+   "references": [
+    "Execution time of KMUL (close-up)"
+   ],
+   "mention_paragraphs": [
+    "To have a better look at the crossover point, Figure 3 has linear scaling and shows only input sizes up to 60 words. From the graph we can see the crossover point is at about 24 words input length, that is, about 460 decimal digits."
+   ],
+   "ocr_text": "OMUL KMUL cy cl es E x ec u ti on Input words 10,000 8,000 6,000 4,000 2,000 0 0 10 20 30 40 50 60",
+   "paper_id": "1503.04955v1"
+  },
+  {
+   "id": "scicap_2001.04107v2-Figure7-1",
+   "source": "scicap_plus_test",
+   "file": "scicap/2001.04107v2-Figure7-1.png",
+   "figure_type": "Graph Plot",
+   "references": [
+    "The pass rate of generated JS tests over ktop."
+   ],
+   "mention_paragraphs": [
+    "Figures 7 and 8 summarize our two experimental results, respectively. As shown in Figure 7, the pass rate of Montage decreases from 79.82% to 58.26% as the ktop increases. This fact demonstrates that the suggestion from the model considerably affects the generation of executable JS tests. It is also consistent with the experimental results from Figure 8b, in that Montage finds fewer total crashes when considering more fragment suggestions in generating JS tests. Note that Michael et al. [41] demonstrated that their TreeFuzz achieved a 14% pass rate, which is significantly lower than that Montage achieved."
+   ],
+   "ocr_text": ") e (% R at Pa ss 1 2 4 8 16 32 64 Top k (k top) 80 70 60",
+   "paper_id": "2001.04107v2"
+  },
+  {
+   "id": "scicap_1709.07873v1-Figure12-1",
+   "source": "scicap_plus_test",
+   "file": "scicap/1709.07873v1-Figure12-1.png",
+   "figure_type": "Graph Plot",
+   "references": [
+    "LTspice simulation of the HP-ion drift model."
+   ],
+   "mention_paragraphs": [
+    "tation of the model (17) in the mentioned identification and emulation procedure, as it can be seen in Fig. 12. Identifying the memristor from simulated data yields the characteristic curve shown in Fig. 13. It should be mentioned that LTspice uses a variable step size for the numerical integration, which causes non-uniform samples for the voltage and current. From this information, we can uniformly resample the signals and process them as explained in Fig. 7. Validating the identified memristor by a triangular input signal regarding two distinct periods leads to the frequency-dependent hysteresis curves shown in Fig. 14. A confirmation of the identified device has been done by LTspice simulations (dashed curves) of the original model (17). In order to identify the memristor in a broader range, other input signals, such as step functions, can be exploited. Note that, although the memristance and the constitutive relation are given in the model, we are not able to compute the flux-dependent memductance Ĝ(ϕ) explicitly. The Tab. III summarizes utilized parameters for this memristor."
+   ],
+   "ocr_text": "u/E tF1 1 0 −1 1/2 1 i/ I u/E 1 0 −1 −1 0 1",
+   "paper_id": "1709.07873v1"
+  },
+  {
+   "id": "chart_bar_labelled_00",
+   "source": "synthetic_chart",
+   "file": "charts/chart_bar_labelled_00.png",
+   "chart_type": "bar",
+   "values_labelled": true,
+   "title": "Caption accuracy of three models",
+   "x_label": "Model",
+   "y_label": "Accuracy (%)",
+   "categories": [
+    "Model A",
+    "Model B",
+    "Model C"
+   ],
+   "values": [
+    60,
+    72,
+    81
+   ],
+   "max": "Model C",
+   "min": "Model A",
+   "trend": null
+  },
+  {
+   "id": "chart_bar_labelled_01",
+   "source": "synthetic_chart",
+   "file": "charts/chart_bar_labelled_01.png",
+   "chart_type": "bar",
+   "values_labelled": true,
+   "title": "Caption accuracy of three models",
+   "x_label": "Model",
+   "y_label": "Accuracy (%)",
+   "categories": [
+    "Model A",
+    "Model B",
+    "Model C"
+   ],
+   "values": [
+    54,
+    78,
+    79
+   ],
+   "max": "Model C",
+   "min": "Model A",
+   "trend": null
+  },
+  {
+   "id": "chart_bar_labelled_02",
+   "source": "synthetic_chart",
+   "file": "charts/chart_bar_labelled_02.png",
+   "chart_type": "bar",
+   "values_labelled": true,
+   "title": "Images per dataset split",
+   "x_label": "Split",
+   "y_label": "Images (thousands)",
+   "categories": [
+    "Train",
+    "Val",
+    "Test"
+   ],
+   "values": [
+    105,
+    78,
+    75
+   ],
+   "max": "Train",
+   "min": "Test",
+   "trend": null
+  },
+  {
+   "id": "chart_bar_labelled_03",
+   "source": "synthetic_chart",
+   "file": "charts/chart_bar_labelled_03.png",
+   "chart_type": "bar",
+   "values_labelled": true,
+   "title": "Images per dataset split",
+   "x_label": "Split",
+   "y_label": "Images (thousands)",
+   "categories": [
+    "Train",
+    "Val",
+    "Test"
+   ],
+   "values": [
+    101,
+    103,
+    80
+   ],
+   "max": "Val",
+   "min": "Test",
+   "trend": null
+  },
+  {
+   "id": "chart_bar_labelled_04",
+   "source": "synthetic_chart",
+   "file": "charts/chart_bar_labelled_04.png",
+   "chart_type": "bar",
+   "values_labelled": true,
+   "title": "Images per dataset split",
+   "x_label": "Split",
+   "y_label": "Images (thousands)",
+   "categories": [
+    "Train",
+    "Val",
+    "Test"
+   ],
+   "values": [
+    35,
+    5,
+    83
+   ],
+   "max": "Test",
+   "min": "Val",
+   "trend": null
+  },
+  {
+   "id": "chart_bar_unlabelled_00",
+   "source": "synthetic_chart",
+   "file": "charts/chart_bar_unlabelled_00.png",
+   "chart_type": "bar",
+   "values_labelled": false,
+   "title": "Caption accuracy of three models",
+   "x_label": "Model",
+   "y_label": "Accuracy (%)",
+   "categories": [
+    "Model A",
+    "Model B",
+    "Model C"
+   ],
+   "values": [
+    47,
+    58,
+    92
+   ],
+   "max": "Model C",
+   "min": "Model A",
+   "trend": null
+  },
+  {
+   "id": "chart_bar_unlabelled_01",
+   "source": "synthetic_chart",
+   "file": "charts/chart_bar_unlabelled_01.png",
+   "chart_type": "bar",
+   "values_labelled": false,
+   "title": "Caption accuracy of three models",
+   "x_label": "Model",
+   "y_label": "Accuracy (%)",
+   "categories": [
+    "Model A",
+    "Model B",
+    "Model C"
+   ],
+   "values": [
+    68,
+    40,
+    92
+   ],
+   "max": "Model C",
+   "min": "Model B",
+   "trend": null
+  },
+  {
+   "id": "chart_bar_unlabelled_02",
+   "source": "synthetic_chart",
+   "file": "charts/chart_bar_unlabelled_02.png",
+   "chart_type": "bar",
+   "values_labelled": false,
+   "title": "Images per dataset split",
+   "x_label": "Split",
+   "y_label": "Images (thousands)",
+   "categories": [
+    "Train",
+    "Val",
+    "Test"
+   ],
+   "values": [
+    91,
+    45,
+    31
+   ],
+   "max": "Train",
+   "min": "Test",
+   "trend": null
+  },
+  {
+   "id": "chart_bar_unlabelled_03",
+   "source": "synthetic_chart",
+   "file": "charts/chart_bar_unlabelled_03.png",
+   "chart_type": "bar",
+   "values_labelled": false,
+   "title": "Images per dataset split",
+   "x_label": "Split",
+   "y_label": "Images (thousands)",
+   "categories": [
+    "Train",
+    "Val",
+    "Test"
+   ],
+   "values": [
+    37,
+    49,
+    50
+   ],
+   "max": "Test",
+   "min": "Train",
+   "trend": null
+  },
+  {
+   "id": "chart_bar_unlabelled_04",
+   "source": "synthetic_chart",
+   "file": "charts/chart_bar_unlabelled_04.png",
+   "chart_type": "bar",
+   "values_labelled": false,
+   "title": "Images per dataset split",
+   "x_label": "Split",
+   "y_label": "Images (thousands)",
+   "categories": [
+    "Train",
+    "Val",
+    "Test"
+   ],
+   "values": [
+    100,
+    70,
+    86
+   ],
+   "max": "Train",
+   "min": "Val",
+   "trend": null
+  },
+  {
+   "id": "chart_line_labelled_00",
+   "source": "synthetic_chart",
+   "file": "charts/chart_line_labelled_00.png",
+   "chart_type": "line",
+   "values_labelled": true,
+   "title": "Number of papers per year",
+   "x_label": "Year",
+   "y_label": "Papers",
+   "categories": [
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+   ],
+   "values": [
+    20,
+    24,
+    31,
+    36,
+    43
+   ],
+   "max": "2025",
+   "min": "2021",
+   "trend": "increasing"
+  },
+  {
+   "id": "chart_line_labelled_01",
+   "source": "synthetic_chart",
+   "file": "charts/chart_line_labelled_01.png",
+   "chart_type": "line",
+   "values_labelled": true,
+   "title": "Training loss by epoch",
+   "x_label": "Epoch",
+   "y_label": "Loss",
+   "categories": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+   ],
+   "values": [
+    44,
+    43,
+    38,
+    34,
+    29
+   ],
+   "max": "1",
+   "min": "5",
+   "trend": "decreasing"
+  },
+  {
+   "id": "chart_line_labelled_02",
+   "source": "synthetic_chart",
+   "file": "charts/chart_line_labelled_02.png",
+   "chart_type": "line",
+   "values_labelled": true,
+   "title": "Monthly active users",
+   "x_label": "Month",
+   "y_label": "Users (thousands)",
+   "categories": [
+    "Jan",
+    "Feb",
+    "Mar",
+    "Apr",
+    "May"
+   ],
+   "values": [
+    39,
+    42,
+    48,
+    56,
+    47
+   ],
+   "max": "Apr",
+   "min": "Jan",
+   "trend": "mixed"
+  },
+  {
+   "id": "chart_line_labelled_03",
+   "source": "synthetic_chart",
+   "file": "charts/chart_line_labelled_03.png",
+   "chart_type": "line",
+   "values_labelled": true,
+   "title": "Number of papers per year",
+   "x_label": "Year",
+   "y_label": "Papers",
+   "categories": [
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+   ],
+   "values": [
+    29,
+    38,
+    48,
+    61,
+    74
+   ],
+   "max": "2025",
+   "min": "2021",
+   "trend": "increasing"
+  },
+  {
+   "id": "chart_line_labelled_04",
+   "source": "synthetic_chart",
+   "file": "charts/chart_line_labelled_04.png",
+   "chart_type": "line",
+   "values_labelled": true,
+   "title": "Training loss by epoch",
+   "x_label": "Epoch",
+   "y_label": "Loss",
+   "categories": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+   ],
+   "values": [
+    47,
+    41,
+    35,
+    31,
+    29
+   ],
+   "max": "1",
+   "min": "5",
+   "trend": "decreasing"
+  },
+  {
+   "id": "chart_line_unlabelled_00",
+   "source": "synthetic_chart",
+   "file": "charts/chart_line_unlabelled_00.png",
+   "chart_type": "line",
+   "values_labelled": false,
+   "title": "Training loss by epoch",
+   "x_label": "Epoch",
+   "y_label": "Loss",
+   "categories": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+   ],
+   "values": [
+    30,
+    28,
+    24,
+    21,
+    15
+   ],
+   "max": "1",
+   "min": "5",
+   "trend": "decreasing"
+  },
+  {
+   "id": "chart_line_unlabelled_01",
+   "source": "synthetic_chart",
+   "file": "charts/chart_line_unlabelled_01.png",
+   "chart_type": "line",
+   "values_labelled": false,
+   "title": "Monthly active users",
+   "x_label": "Month",
+   "y_label": "Users (thousands)",
+   "categories": [
+    "Jan",
+    "Feb",
+    "Mar",
+    "Apr",
+    "May"
+   ],
+   "values": [
+    26,
+    29,
+    20,
+    24,
+    28
+   ],
+   "max": "Feb",
+   "min": "Mar",
+   "trend": "mixed"
+  },
+  {
+   "id": "chart_line_unlabelled_02",
+   "source": "synthetic_chart",
+   "file": "charts/chart_line_unlabelled_02.png",
+   "chart_type": "line",
+   "values_labelled": false,
+   "title": "Training loss by epoch",
+   "x_label": "Epoch",
+   "y_label": "Loss",
+   "categories": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+   ],
+   "values": [
+    44,
+    40,
+    34,
+    31,
+    25
+   ],
+   "max": "1",
+   "min": "5",
+   "trend": "decreasing"
+  },
+  {
+   "id": "chart_line_unlabelled_03",
+   "source": "synthetic_chart",
+   "file": "charts/chart_line_unlabelled_03.png",
+   "chart_type": "line",
+   "values_labelled": false,
+   "title": "Validation accuracy by epoch",
+   "x_label": "Epoch",
+   "y_label": "Accuracy (%)",
+   "categories": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+   ],
+   "values": [
+    24,
+    27,
+    37,
+    41,
+    47
+   ],
+   "max": "5",
+   "min": "1",
+   "trend": "increasing"
+  },
+  {
+   "id": "chart_line_unlabelled_04",
+   "source": "synthetic_chart",
+   "file": "charts/chart_line_unlabelled_04.png",
+   "chart_type": "line",
+   "values_labelled": false,
+   "title": "Number of papers per year",
+   "x_label": "Year",
+   "y_label": "Papers",
+   "categories": [
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+   ],
+   "values": [
+    40,
+    47,
+    55,
+    63,
+    75
+   ],
+   "max": "2025",
+   "min": "2021",
+   "trend": "increasing"
+  }
+ ]
+}

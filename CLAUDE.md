@@ -59,7 +59,14 @@ Khi thêm tài liệu mới: thêm vào LINKS.txt, tải PDF vào `PDF/` đúng 
 
 - **Doc Tổng quan tài liệu** (Claude Docs): 28 mục gốc có chú thích, chia 6 nhóm; chưa có các mục [29]–[43].
 - **BaoCao_ImageCaptioning.docx:** Bìa (đúng tiêu đề giảng viên) + Ch.1 + Ch.2 (Bảng 2.1 sự thay đổi qua các thế hệ, Bảng 2.2 kỹ thuật, Bảng 2.3 điểm phù hợp) + Ch.3 (Hình 3.1, Bảng 3.1–3.2, công thức 3.1–3.2) + Tài liệu tham khảo. Trích dẫn dạng [n]. PDF cần xuất lại từ Word.
-- **notebooks/01_chay_thu.ipynb:** chạy thử 3 mô hình ở 4-bit, đo bộ nhớ/thời gian.
+- **notebooks/** (Colab; dữ liệu và kết quả lưu ở Google Drive `MyDrive/ImageCaptioning/{data,ketqua}`):
+  - `01_chay_thu` — chạy thử 3 mô hình ở 4-bit (ĐÃ CHẠY 02/11/2026).
+  - `02_du_lieu` — 100 ảnh COCO val2017, 40 hình SciCap+ test (caption + đoạn văn + OCR), 20 biểu đồ tự vẽ có đáp án → `dataset.json`. Không cần GPU.
+  - `03_sinh_caption` — cấu hình A (3 mô hình), B/C/D (LLaVA-OV); lưu sau từng ảnh, chạy lại thì tiếp tục.
+  - `04_danh_gia` — CIDEr (pycocoevalcap), CLIPScore/RefCLIPScore tự viết theo [21] (có tiền tố "A photo depicts" cho cả câu tham chiếu, như code gốc), chấm lỗi sai dữ kiện biểu đồ.
+  - `05_minh_hoa_nguyen_ly` — số ô AnyRes, số token ảnh, kích thước vector SigLIP/MLP, độ phân giải → bộ nhớ, top-5 token mỗi bước (minh họa Ch.3).
+  - `06_cong_cu_word` — công cụ 1A: chú thích dùng kiểu Caption + trường SEQ, mục lục hình (TOC \c), ngữ cảnh 2A, tự kiểm tra 2B tùy chọn. Giữ nguyên chú thích đánh số theo chương ("Hình 3.1"); chỉ xử lý ảnh inline.
+  - Các notebook 02–06 mới kiểm tra cú pháp và chạy thử phần không cần GPU trên Mac; CHƯA chạy trên Colab.
 
 ## 7. Cấu trúc báo cáo (theo hướng dẫn môn học)
 
@@ -85,11 +92,9 @@ Khi thêm tài liệu mới: thêm vào LINKS.txt, tải PDF vào `PDF/` đúng 
 
 ## 9. Việc tiếp theo (gợi ý ưu tiên)
 
-1. Notebook 02 — dữ liệu: ~100 ảnh COCO val2017 + 5 câu tham chiếu; 30–50 hình SciCap+ kèm caption gốc và đoạn văn nhắc đến hình; biểu đồ tự vẽ có/không ghi số.
-2. Notebook 04 — đánh giá: CIDEr (pycocoevalcap, cần Java), CLIPScore tự viết theo [21], đếm lỗi sai dữ kiện. Thử trên vài ảnh trước.
-3. Notebook 03 — sinh caption: 3 mô hình (cấu hình A) + LLaVA-OV cấu hình B/C/D.
-4. Notebook minh họa nguyên lý: in số ô AnyRes, số token ảnh, kích thước vector qua SigLIP/MLP.
-5. Công cụ Word (1A), rồi viết Ch.4, Ch.5.
+1. Khang chạy trên Colab theo thứ tự: 02 (CPU) → 05 (GPU) → 03 mục 3 LLaVA-OV (~1,5 giờ) → 03 mục 4 BLIP-2 → 03 mục 5 Qwen3-VL → 04 → 06 thử với một file Word.
+2. Gửi lại: output/ảnh chụp của 02 và 05, `scores_summary.csv` + `scores_per_item.csv` của 04, file Word kết quả của 06.
+3. Viết Ch.4 từ số liệu thật, rồi Ch.5; đổi mục 1.4 từ "dự kiến" sang kết quả.
 
 ## 10. Quy tắc làm việc
 
